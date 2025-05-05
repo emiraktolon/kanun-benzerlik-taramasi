@@ -1,0 +1,3 @@
+MADDE 1 – Bu kanun, kamu hizmetlerinin dijital ortamda kesintisiz sunulmasını düzenler.
+MADDE 2 – Vatandaşlar, kimlik doğrulaması sonrasında e-devlet sistemleri üzerinden işlemlerini gerçekleştirebilir.
+MADDE 3 – Kurumlar, açık veri standartlarına uygun şekilde bilgi paylaşımını API ile sağlamakla yükümlüdür.
