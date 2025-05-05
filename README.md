@@ -1,84 +1,59 @@
-# Kanun Taslağı Benzerlik Taraması
+# Kanun Taslağı – Önceki Kanunlarla Benzerlik Taraması
 
-Bu proje, kanun taslakları gibi resmi metinlerdeki içerik benzerliğini analiz etmeyi amaçlamaktadır. Doğal dil işleme (NLP) yöntemleri kullanılarak metin ön işleme, Zipf yasası analizi, TF-IDF ve Word2Vec temelli vektörleştirme adımları gerçekleştirilmiştir.
+Bu proje, kanun taslaklarının içerik benzerliğini önceki kanun metinleriyle karşılaştırmak amacıyla doğal dil işleme (NLP) teknikleriyle gerçekleştirilmiştir. Amaç, yasa taslaklarının mevcut mevzuatla ne kadar örtüştüğünü metin madenciliği ile incelemektir.
 
-## 📌 Proje Amacı
-
-Projede kullanılan metin veri seti üzerinde:
-- Temizleme ve ön işleme (tokenization, stopword removal, stemming, lemmatization)
-- Zipf yasasına göre metin dağılımının incelenmesi
-- TF-IDF ve Word2Vec ile vektörleştirme
-- İçerik benzerliğinin analiz edilmesi
-amaçlanmaktadır.
+## 📌 Proje Kapsamı
+- Çoklu `.txt` dosyalarının otomatik işlenmesi (`data/raw/`)
+- Ön işleme (tokenization, stopword removal, stemming, lemmatization)
+- Zipf yasası görselleştirmesi (isteğe bağlı)
+- TF-IDF vektörleştirme
+- Word2Vec model eğitimi
+- **Kanun metinleri arası benzerlik ölçümü** (Cosine Similarity)
 
 ## 📁 Klasör Yapısı
 
 ```
-kanun-taslagi-benzerlik/
-│
+kanun-benzerlik-taramasi/
 ├── data/
-│   ├── raw/                    # Ham veri
-│   └── processed/              # Stemming & Lemmatization sonrası veri
+│   └── raw/                  # Tüm .txt formatlı kanun metinleri (taslak ve eski metinler)
+│
 ├── outputs/
-│   ├── tfidf/                  # TF-IDF sonuçları (.csv)
-│   └── graphs/                 # Zipf grafikleri ve görselleştirmeler
-├── models/                     # Word2Vec modelleri (.model/.bin)
-├── preprocess.py              # Temizleme ve ön işleme kodu
-├── vectorize.py               # TF-IDF ve Word2Vec kodları
+│   ├── tfidf/                # TF-IDF çıktı dosyaları
+│   └── similarity/           # Benzerlik skorları (csv)
+│
+├── models/                   # Word2Vec modelleri
+├── preprocess.py             # Çoklu metinleri işler
+├── vectorize.py              # Vektörleştirme + benzerlik analizi
 └── README.md
 ```
 
 ## 🔧 Gereksinimler
 
 ```bash
-pip install nltk pandas gensim scikit-learn matplotlib numpy tqdm seaborn
+pip install nltk pandas gensim scikit-learn matplotlib numpy
 ```
 
-### 📥 NLTK Veri İndirme
+İlk çalıştırmada gerekli NLTK bileşenlerini indirin:
 
 ```python
 import nltk
 nltk.download('punkt')
-nltk.download('wordnet')
 nltk.download('stopwords')
+nltk.download('wordnet')
 ```
 
-## 🚀 Kullanım Talimatları
+## 🚀 Kullanım
 
-1. `data/raw/` klasörüne ham veri dosyasını yerleştirin.
-2. `preprocess.py` dosyasını çalıştırarak veri temizleme işlemini yapın.
-3. Zipf yasası grafikleri `outputs/graphs/` klasörüne kaydedilir.
-4. `vectorize.py` dosyasını çalıştırarak:
-   - TF-IDF çıktıları: `tfidf_lemmatized.csv`, `tfidf_stemmed.csv`
-   - Word2Vec modelleri: `.model` formatında 16 adet
-     oluşturabilirsiniz.
-5. Tüm çıktılar ilgili klasörlerde yer alacaktır.
+1. Tüm `.txt` dosyalarını `data/raw/` klasörüne koy (örneğin: `taslak.txt`, `kanun_2001.txt`, `kanun_2010.txt`)
+2. `preprocess.py` dosyasını çalıştır → her dosya için lemmatized/stemmed `.csv`'ler oluşur
+3. `vectorize.py` dosyasını çalıştır → TF-IDF & Word2Vec vektörleri çıkar, benzerlik analizleri yapılır
+4. Çıktılar `outputs/` klasörüne kaydedilir
 
-## 📊 Zipf Yasası
+## 🧠 Kullanılan Yöntemler
 
-Ham ve işlenmiş veri setlerine ait log-log Zipf dağılımı grafikleri çizilir. Grafikler `outputs/graphs/` klasöründe saklanır.
+- TF-IDF matrisleri ile Cosine Similarity hesaplaması
+- Word2Vec model eğitimi (CBOW ve Skip-Gram; window: 2-4, vector_size: 100-300)
 
-## 🧠 Vektörleştirme
-
-### TF-IDF
-- `tfidf_lemmatized.csv`
-- `tfidf_stemmed.csv`
-
-### Word2Vec
-Toplam 16 model eğitilmiştir:
-- 8 model lemmatized veri için
-- 8 model stemmed veri için
-
-Parametreler:
-- `window`: 2, 4
-- `vector_size`: 100, 300
-- `model_type`: CBOW / Skip-gram
-
-Model örnek adları:
-- `word2vec_lemmatized_cbow_win2_dim100.model`
-- `word2vec_stemmed_skipgram_win4_dim300.model`
-
-## 👤 Yazar
-
-Emir Aktolon – 2025  
-Gümüşhane Üniversitesi – Yönetim Bilişim Sistemleri
+## 👤 Hazırlayan
+Emir Aktolon – Yönetim Bilişim Sistemleri  
+Odak Adası – 2025
