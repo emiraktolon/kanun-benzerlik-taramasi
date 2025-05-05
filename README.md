@@ -56,4 +56,4 @@ nltk.download('wordnet')
 
 ## 👤 Hazırlayan
 Emir Aktolon – Yönetim Bilişim Sistemleri  
-Odak Adası – 2025
+2025
