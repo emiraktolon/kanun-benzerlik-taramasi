@@ -1,0 +1,541 @@
+﻿model,cümle_1,cümle_2,benzerlik_skoru
+lemmatized_model_8.model,Bir kimseyi kasten öldüren kişi ağır hapis cezası ile cezalandırılır.,Bir kimseyi kasten yaralayan kişi beş yıla kadar hapis cezasına çarptırılır.,0.982524
+lemmatized_model_8.model,Bir kimseyi kasten öldüren kişi ağır hapis cezası ile cezalandırılır.,Kasten öldürme suçunu işleyen kişi müebbet hapis cezası ile cezalandırılır.,0.98000467
+lemmatized_model_8.model,Bir kimseyi kasten öldüren kişi ağır hapis cezası ile cezalandırılır.,Bir kişiye sürekli işkence yapan kişi on yıla kadar hapis cezası ile cezalandırılır.,0.9776652
+lemmatized_model_8.model,Kasten öldürme suçunu işleyen kişi müebbet hapis cezası ile cezalandırılır.,Bir kimseyi kasten öldüren kişi ağır hapis cezası ile cezalandırılır.,0.98000467
+lemmatized_model_8.model,Kasten öldürme suçunu işleyen kişi müebbet hapis cezası ile cezalandırılır.,Kasten yaralama suçunu işleyen kişi iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.,0.9758689
+lemmatized_model_8.model,Kasten öldürme suçunu işleyen kişi müebbet hapis cezası ile cezalandırılır.,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,0.97229725
+lemmatized_model_8.model,Bir kimseyi kasten yaralayan kişi beş yıla kadar hapis cezasına çarptırılır.,Kasten yaralama suçunu işleyen kişi iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.,0.98548216
+lemmatized_model_8.model,Bir kimseyi kasten yaralayan kişi beş yıla kadar hapis cezasına çarptırılır.,Bir kişiye sürekli işkence yapan kişi on yıla kadar hapis cezası ile cezalandırılır.,0.9838442
+lemmatized_model_8.model,Bir kimseyi kasten yaralayan kişi beş yıla kadar hapis cezasına çarptırılır.,Bir kimseyi kasten öldüren kişi ağır hapis cezası ile cezalandırılır.,0.982524
+lemmatized_model_8.model,Kasten yaralama suçunu işleyen kişi iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.,Bir kimseyi kasten yaralayan kişi beş yıla kadar hapis cezasına çarptırılır.,0.98548216
+lemmatized_model_8.model,Kasten yaralama suçunu işleyen kişi iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.,Adam kaçıran kişi iki yıldan altı yıla kadar hapis cezasına çarptırılır.,0.9851223
+lemmatized_model_8.model,Kasten yaralama suçunu işleyen kişi iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.,İftira eden kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.,0.981553
+lemmatized_model_8.model,Başkasına ait eşyayı gizlice alan kişi hırsızlık suçu işlemiş olur.,"Zilyetliğinde bulunmayan malı, sahibinin rızası dışında almak suretiyle hırsızlık suçunu işleyen kişi cezalandırılır.",0.91012824
+lemmatized_model_8.model,Başkasına ait eşyayı gizlice alan kişi hırsızlık suçu işlemiş olur.,Kapkaç suretiyle mal çalan kişi hırsızlık cezası alır.,0.89440733
+lemmatized_model_8.model,Başkasına ait eşyayı gizlice alan kişi hırsızlık suçu işlemiş olur.,Özel hayatın gizliliğini ihlal eden kişi cezalandırılır.,0.83376324
+lemmatized_model_8.model,"Zilyetliğinde bulunmayan malı, sahibinin rızası dışında almak suretiyle hırsızlık suçunu işleyen kişi cezalandırılır.",Kapkaç suretiyle mal çalan kişi hırsızlık cezası alır.,0.9458626
+lemmatized_model_8.model,"Zilyetliğinde bulunmayan malı, sahibinin rızası dışında almak suretiyle hırsızlık suçunu işleyen kişi cezalandırılır.",Başkasına ait eşyayı gizlice alan kişi hırsızlık suçu işlemiş olur.,0.91012824
+lemmatized_model_8.model,"Zilyetliğinde bulunmayan malı, sahibinin rızası dışında almak suretiyle hırsızlık suçunu işleyen kişi cezalandırılır.",Hırsızlık için yapılan kazı veya delme faaliyeti cezalandırılır.,0.8953525
+lemmatized_model_8.model,Dolandırıcılık yapan kişi iki seneye kadar hapis cezasına çarptırılır.,İftira eden kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.,0.9900326
+lemmatized_model_8.model,Dolandırıcılık yapan kişi iki seneye kadar hapis cezasına çarptırılır.,Adam kaçıran kişi iki yıldan altı yıla kadar hapis cezasına çarptırılır.,0.98967886
+lemmatized_model_8.model,Dolandırıcılık yapan kişi iki seneye kadar hapis cezasına çarptırılır.,Bir kişiye sürekli işkence yapan kişi on yıla kadar hapis cezası ile cezalandırılır.,0.98771757
+lemmatized_model_8.model,Hileli davranışlarla bir kimseyi aldatarak kendisine veya başkasına yarar sağlayan kişi dolandırıcılık suçunu işlemiş olur.,Kadınların aldatılarak fuhşa zorlanması cezalandırılır.,0.92185116
+lemmatized_model_8.model,Hileli davranışlarla bir kimseyi aldatarak kendisine veya başkasına yarar sağlayan kişi dolandırıcılık suçunu işlemiş olur.,Haksız yere bir kimseyi suçlamak amacıyla iftira atan kişi cezalandırılır.,0.9199992
+lemmatized_model_8.model,Hileli davranışlarla bir kimseyi aldatarak kendisine veya başkasına yarar sağlayan kişi dolandırıcılık suçunu işlemiş olur.,Bir kimsenin hürriyetinden yoksun bırakılması suçu işlendiğinde fail cezalandırılır.,0.8892038
+lemmatized_model_8.model,Çocuğunu terk eden ana veya baba iki aya kadar hapis cezası ile cezalandırılır.,İftira eden kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.,0.98155147
+lemmatized_model_8.model,Çocuğunu terk eden ana veya baba iki aya kadar hapis cezası ile cezalandırılır.,Adam kaçıran kişi iki yıldan altı yıla kadar hapis cezasına çarptırılır.,0.9732608
+lemmatized_model_8.model,Çocuğunu terk eden ana veya baba iki aya kadar hapis cezası ile cezalandırılır.,Dolandırıcılık yapan kişi iki seneye kadar hapis cezasına çarptırılır.,0.9683923
+lemmatized_model_8.model,Aile hukukundan doğan yükümlülükleri ihlal eden kişi cezalandırılır.,Aile bireyine kötü muamele eden kişi cezalandırılır.,0.9476187
+lemmatized_model_8.model,Aile hukukundan doğan yükümlülükleri ihlal eden kişi cezalandırılır.,Cezaevi disiplin kurallarını ihlal eden kişi cezalandırılır.,0.9443088
+lemmatized_model_8.model,Aile hukukundan doğan yükümlülükleri ihlal eden kişi cezalandırılır.,Özel hayatın gizliliğini ihlal eden kişi cezalandırılır.,0.9135025
+lemmatized_model_8.model,Bir kişiye sürekli işkence yapan kişi on yıla kadar hapis cezası ile cezalandırılır.,Dolandırıcılık yapan kişi iki seneye kadar hapis cezasına çarptırılır.,0.98771757
+lemmatized_model_8.model,Bir kişiye sürekli işkence yapan kişi on yıla kadar hapis cezası ile cezalandırılır.,Bir kimseyi kasten yaralayan kişi beş yıla kadar hapis cezasına çarptırılır.,0.9838442
+lemmatized_model_8.model,Bir kişiye sürekli işkence yapan kişi on yıla kadar hapis cezası ile cezalandırılır.,Bir kimseyi kasten öldüren kişi ağır hapis cezası ile cezalandırılır.,0.9776652
+lemmatized_model_8.model,Bir kimseye insan onuruyla bağdaşmayacak biçimde işkence eden kişi cezalandırılır.,Bir kişiye hakaret eden fail cezalandırılır.,0.9585938
+lemmatized_model_8.model,Bir kimseye insan onuruyla bağdaşmayacak biçimde işkence eden kişi cezalandırılır.,Kasten yangın çıkaran kişi cezalandırılır.,0.9373142
+lemmatized_model_8.model,Bir kimseye insan onuruyla bağdaşmayacak biçimde işkence eden kişi cezalandırılır.,Haksız yere bir kimseyi suçlamak amacıyla iftira atan kişi cezalandırılır.,0.9213881
+lemmatized_model_8.model,Adam kaçıran kişi iki yıldan altı yıla kadar hapis cezasına çarptırılır.,İftira eden kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.,0.9946804
+lemmatized_model_8.model,Adam kaçıran kişi iki yıldan altı yıla kadar hapis cezasına çarptırılır.,Dolandırıcılık yapan kişi iki seneye kadar hapis cezasına çarptırılır.,0.98967886
+lemmatized_model_8.model,Adam kaçıran kişi iki yıldan altı yıla kadar hapis cezasına çarptırılır.,Kasten yaralama suçunu işleyen kişi iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.,0.9851223
+lemmatized_model_8.model,Bir kimsenin hürriyetinden yoksun bırakılması suçu işlendiğinde fail cezalandırılır.,Kişiyi hürriyetinden yoksun bırakma suçu işlenmiş olur.,0.9741483
+lemmatized_model_8.model,Bir kimsenin hürriyetinden yoksun bırakılması suçu işlendiğinde fail cezalandırılır.,Hukuka aykırı olarak bir kişiyi hürriyetinden yoksun bırakan kişi cezalandırılır.,0.9603553
+lemmatized_model_8.model,Bir kimsenin hürriyetinden yoksun bırakılması suçu işlendiğinde fail cezalandırılır.,Bir kimseye insan onuruyla bağdaşmayacak biçimde işkence eden kişi cezalandırılır.,0.91308296
+lemmatized_model_8.model,Genel ahlaka aykırı davranan kimseye idarî para cezası verilir.,Genel ahlaka aykırı yayın yapan kişi cezalandırılır.,0.95135427
+lemmatized_model_8.model,Genel ahlaka aykırı davranan kimseye idarî para cezası verilir.,İmar mevzuatına aykırı inşaat yapan kişi cezalandırılır.,0.88094956
+lemmatized_model_8.model,Genel ahlaka aykırı davranan kimseye idarî para cezası verilir.,Tanığın gerçeğe aykırı ifade vermesi durumunda ceza verilir.,0.8802481
+lemmatized_model_8.model,Aleniyet arz eden edepsiz hareketlerde bulunan kişiye hapis veya para cezası verilir.,Rüşvet alma veya verme fiilinde bulunan kişiler hapis cezası ile cezalandırılır.,0.97462595
+lemmatized_model_8.model,Aleniyet arz eden edepsiz hareketlerde bulunan kişiye hapis veya para cezası verilir.,Hakime hakaret eden kişi hapis cezası ile cezalandırılır.,0.91334414
+lemmatized_model_8.model,Aleniyet arz eden edepsiz hareketlerde bulunan kişiye hapis veya para cezası verilir.,Zimmetine para geçiren memur ağır hapis cezası ile cezalandırılır.,0.9095919
+lemmatized_model_8.model,Bürokrasiye karşı direnen vatandaş cezalandırılır.,Kamu görevlisine direnme suçunu işleyen kişi cezalandırılır.,0.97713023
+lemmatized_model_8.model,Bürokrasiye karşı direnen vatandaş cezalandırılır.,Görevli memura karşı koyan kişi cezalandırılır.,0.97257227
+lemmatized_model_8.model,Bürokrasiye karşı direnen vatandaş cezalandırılır.,Kamu görevlisine görevinden dolayı direnme suçtur.,0.9556042
+lemmatized_model_8.model,Kamu görevlisine direnme suçunu işleyen kişi cezalandırılır.,Bürokrasiye karşı direnen vatandaş cezalandırılır.,0.97713023
+lemmatized_model_8.model,Kamu görevlisine direnme suçunu işleyen kişi cezalandırılır.,Görevli memura karşı koyan kişi cezalandırılır.,0.9725363
+lemmatized_model_8.model,Kamu görevlisine direnme suçunu işleyen kişi cezalandırılır.,Görev sırasında yetkisini aşan asker cezalandırılır.,0.9585426
+lemmatized_model_8.model,Memura rüşvet veren kişi yargılanır.,Rüşvet alan ve veren kişi cezalandırılır.,0.97775483
+lemmatized_model_8.model,Memura rüşvet veren kişi yargılanır.,Görevli memura itaatsizlik eden kişi cezalandırılır.,0.9578419
+lemmatized_model_8.model,Memura rüşvet veren kişi yargılanır.,Rüşveti kabul eden kamu görevlisi cezalandırılır.,0.9365935
+lemmatized_model_8.model,Rüşvet alma veya verme fiilinde bulunan kişiler hapis cezası ile cezalandırılır.,Aleniyet arz eden edepsiz hareketlerde bulunan kişiye hapis veya para cezası verilir.,0.97462595
+lemmatized_model_8.model,Rüşvet alma veya verme fiilinde bulunan kişiler hapis cezası ile cezalandırılır.,Hırsızlık yapan kişi hapis cezası alır.,0.94085795
+lemmatized_model_8.model,Rüşvet alma veya verme fiilinde bulunan kişiler hapis cezası ile cezalandırılır.,Mala zarar veren kişi tazminat ve hapis cezası ile cezalandırılır.,0.9320093
+lemmatized_model_8.model,İftira eden kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.,Adam kaçıran kişi iki yıldan altı yıla kadar hapis cezasına çarptırılır.,0.9946804
+lemmatized_model_8.model,İftira eden kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.,Dolandırıcılık yapan kişi iki seneye kadar hapis cezasına çarptırılır.,0.9900326
+lemmatized_model_8.model,İftira eden kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.,Kasten yaralama suçunu işleyen kişi iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.,0.981553
+lemmatized_model_8.model,Haksız yere bir kimseyi suçlamak amacıyla iftira atan kişi cezalandırılır.,Bir kimseye insan onuruyla bağdaşmayacak biçimde işkence eden kişi cezalandırılır.,0.9213881
+lemmatized_model_8.model,Haksız yere bir kimseyi suçlamak amacıyla iftira atan kişi cezalandırılır.,Hileli davranışlarla bir kimseyi aldatarak kendisine veya başkasına yarar sağlayan kişi dolandırıcılık suçunu işlemiş olur.,0.9199992
+lemmatized_model_8.model,Haksız yere bir kimseyi suçlamak amacıyla iftira atan kişi cezalandırılır.,Kadınların aldatılarak fuhşa zorlanması cezalandırılır.,0.91100866
+lemmatized_model_8.model,Mala zarar veren kişi tazminat ve hapis cezası ile cezalandırılır.,Hırsızlık yapan kişi hapis cezası alır.,0.9555321
+lemmatized_model_8.model,Mala zarar veren kişi tazminat ve hapis cezası ile cezalandırılır.,Müstehcen yayın yapan kişiye ceza verilir.,0.9463701
+lemmatized_model_8.model,Mala zarar veren kişi tazminat ve hapis cezası ile cezalandırılır.,Rüşvet alma veya verme fiilinde bulunan kişiler hapis cezası ile cezalandırılır.,0.9320093
+lemmatized_model_8.model,Başkasına ait mala zarar veren kişi hakkında cezai işlem uygulanır.,Ruhsatsız silah bulunduran kişi hakkında cezai işlem uygulanır.,0.94750464
+lemmatized_model_8.model,Başkasına ait mala zarar veren kişi hakkında cezai işlem uygulanır.,Başkasının kimliğini kullanan kişi hakkında ceza verilir.,0.9462733
+lemmatized_model_8.model,Başkasına ait mala zarar veren kişi hakkında cezai işlem uygulanır.,Seçme ve seçilme hakkını engelleyen kişi hakkında ceza uygulanır.,0.92164075
+lemmatized_model_8.model,Zimmetine para geçiren memur ağır hapis cezası ile cezalandırılır.,Hakime hakaret eden kişi hapis cezası ile cezalandırılır.,0.96168435
+lemmatized_model_8.model,Zimmetine para geçiren memur ağır hapis cezası ile cezalandırılır.,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,0.96012574
+lemmatized_model_8.model,Zimmetine para geçiren memur ağır hapis cezası ile cezalandırılır.,Yaralama sonucunda ölüm gerçekleşirse ağır ceza verilir.,0.9553891
+lemmatized_model_8.model,Kamu görevlisinin zimmet suçu işlemesi durumunda ağır cezalar uygulanır.,Kaçakçılık suçu kapsamında ceza uygulanır.,0.9743663
+lemmatized_model_8.model,Kamu görevlisinin zimmet suçu işlemesi durumunda ağır cezalar uygulanır.,Görevli memura karşı tehdit suçu işlenirse ceza verilir.,0.97276545
+lemmatized_model_8.model,Kamu görevlisinin zimmet suçu işlemesi durumunda ağır cezalar uygulanır.,Taksirle yaralama suçu kapsamında ceza uygulanır.,0.9620632
+lemmatized_model_8.model,Görevi kötüye kullanan memura ceza verilir.,Görevi ihmal eden kamu görevlisi ceza alır.,0.964435
+lemmatized_model_8.model,Görevi kötüye kullanan memura ceza verilir.,Görevi sırasında rüşvet alan zabıta cezalandırılır.,0.9633406
+lemmatized_model_8.model,Görevi kötüye kullanan memura ceza verilir.,Görevle ilgili sırrı açıklayan memur cezalandırılır.,0.96153677
+lemmatized_model_8.model,Görevi kötüye kullanan kamu görevlisi cezalandırılır.,Yetkisini kötüye kullanan kamu görevlisi cezalandırılır.,0.9977697
+lemmatized_model_8.model,Görevi kötüye kullanan kamu görevlisi cezalandırılır.,Görevi kötüye kullanan zabıta cezalandırılır.,0.99179935
+lemmatized_model_8.model,Görevi kötüye kullanan kamu görevlisi cezalandırılır.,Kamu görevlisine görevinden dolayı direnme suçtur.,0.97110057
+lemmatized_model_8.model,Yalan tanıklık eden kişi hakkında yargı işlemi yapılır.,Mahkeme kararına muhalefet eden kişi hakkında işlem yapılır.,0.97847736
+lemmatized_model_8.model,Yalan tanıklık eden kişi hakkında yargı işlemi yapılır.,Ruhsatsız silah bulunduran kişi hakkında cezai işlem uygulanır.,0.9345501
+lemmatized_model_8.model,Yalan tanıklık eden kişi hakkında yargı işlemi yapılır.,Mahkeme kararına uymayan kişi cezalandırılır.,0.9243002
+lemmatized_model_8.model,Gerçeğe aykırı beyanda bulunan tanık cezalandırılır.,Mahkemeye yalan beyanda bulunan şahıs cezalandırılır.,0.9574967
+lemmatized_model_8.model,Gerçeğe aykırı beyanda bulunan tanık cezalandırılır.,Tanığın gerçeğe aykırı ifade vermesi durumunda ceza verilir.,0.92778105
+lemmatized_model_8.model,Gerçeğe aykırı beyanda bulunan tanık cezalandırılır.,Genel ahlaka aykırı yayın yapan kişi cezalandırılır.,0.88269085
+lemmatized_model_8.model,Suç delillerini gizleyen kişi cezalandırılır.,Cinayete azmettiren cezalandırılır.,0.96903205
+lemmatized_model_8.model,Suç delillerini gizleyen kişi cezalandırılır.,"Suç delillerini yok eden, gizleyen veya değiştiren kişi cezalandırılır.",0.96008587
+lemmatized_model_8.model,Suç delillerini gizleyen kişi cezalandırılır.,Suçluyu kayıran kişi cezalandırılır.,0.9496277
+lemmatized_model_8.model,"Suç delillerini yok eden, gizleyen veya değiştiren kişi cezalandırılır.",Suç delillerini gizleyen kişi cezalandırılır.,0.96008587
+lemmatized_model_8.model,"Suç delillerini yok eden, gizleyen veya değiştiren kişi cezalandırılır.",Tutuklu veya hükümlünün kaçması suçu cezalandırılır.,0.9243688
+lemmatized_model_8.model,"Suç delillerini yok eden, gizleyen veya değiştiren kişi cezalandırılır.",Hırsızlık için yapılan kazı veya delme faaliyeti cezalandırılır.,0.9222918
+lemmatized_model_8.model,Kapkaç suretiyle mal çalan kişi hırsızlık cezası alır.,"Zilyetliğinde bulunmayan malı, sahibinin rızası dışında almak suretiyle hırsızlık suçunu işleyen kişi cezalandırılır.",0.9458626
+lemmatized_model_8.model,Kapkaç suretiyle mal çalan kişi hırsızlık cezası alır.,Nitelikli hırsızlık kapsamında ceza uygulanır.,0.9286883
+lemmatized_model_8.model,Kapkaç suretiyle mal çalan kişi hırsızlık cezası alır.,Hırsızlık suçu için ceza uygulanır.,0.92818785
+lemmatized_model_8.model,Nitelikli hırsızlık kapsamında ceza uygulanır.,Kaçakçılık suçu kapsamında ceza uygulanır.,0.96091044
+lemmatized_model_8.model,Nitelikli hırsızlık kapsamında ceza uygulanır.,Hırsızlık suçu için ceza uygulanır.,0.95849055
+lemmatized_model_8.model,Nitelikli hırsızlık kapsamında ceza uygulanır.,Gece vakti hırsızlık yapan daha ağır cezalandırılır.,0.95061874
+lemmatized_model_8.model,Hakime hakaret eden kişi hapis cezası ile cezalandırılır.,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,0.9838037
+lemmatized_model_8.model,Hakime hakaret eden kişi hapis cezası ile cezalandırılır.,İftira eden kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır.,0.9795211
+lemmatized_model_8.model,Hakime hakaret eden kişi hapis cezası ile cezalandırılır.,Dolandırıcılık yapan kişi iki seneye kadar hapis cezasına çarptırılır.,0.96579623
+lemmatized_model_8.model,Bir kişiye hakaret eden fail cezalandırılır.,Kasten yangın çıkaran kişi cezalandırılır.,0.9633046
+lemmatized_model_8.model,Bir kişiye hakaret eden fail cezalandırılır.,Bir kimseye insan onuruyla bağdaşmayacak biçimde işkence eden kişi cezalandırılır.,0.9585938
+lemmatized_model_8.model,Bir kişiye hakaret eden fail cezalandırılır.,Bir kimseyi kasten öldüren kişi ağır hapis cezası ile cezalandırılır.,0.93808454
+lemmatized_model_8.model,Adam öldürmeye teşebbüs eden kişi ağır ceza alır.,Tasarlayarak adam öldürme suçu için ağırlaştırılmış müebbet cezası verilir.,0.9731507
+lemmatized_model_8.model,Adam öldürmeye teşebbüs eden kişi ağır ceza alır.,Suça teşebbüs hükümlerine göre adam öldürmeye teşebbüs eden cezalandırılır.,0.9644879
+lemmatized_model_8.model,Adam öldürmeye teşebbüs eden kişi ağır ceza alır.,Gasp eden kişi ağır cezalandırılır.,0.94650894
+lemmatized_model_8.model,Suça teşebbüs hükümlerine göre adam öldürmeye teşebbüs eden cezalandırılır.,Adam öldürmeye teşebbüs eden kişi ağır ceza alır.,0.9644879
+lemmatized_model_8.model,Suça teşebbüs hükümlerine göre adam öldürmeye teşebbüs eden cezalandırılır.,Kaçan hükümlüye yardım eden kişi cezalandırılır.,0.921575
+lemmatized_model_8.model,Suça teşebbüs hükümlerine göre adam öldürmeye teşebbüs eden cezalandırılır.,Tasarlayarak adam öldürme suçu için ağırlaştırılmış müebbet cezası verilir.,0.90961
+lemmatized_model_8.model,Ağır yaralama suçu işleyen ağır hapis cezasına çarptırılır.,Yağma (gasp) suçunu işleyen fail ağır hapis cezası ile cezalandırılır.,0.987661
+lemmatized_model_8.model,Ağır yaralama suçu işleyen ağır hapis cezasına çarptırılır.,Yağma suçunun silahla ve yaralama ile işlenmesi ağır cezayı gerektirir.,0.984159
+lemmatized_model_8.model,Ağır yaralama suçu işleyen ağır hapis cezasına çarptırılır.,Kasten öldürme suçunu işleyen kişi müebbet hapis cezası ile cezalandırılır.,0.9592507
+lemmatized_model_8.model,Neticesi sebebiyle ağırlaşmış yaralama durumunda ceza artırılır.,Suçun tasarlanarak işlenmesi durumunda ceza artar.,0.9667413
+lemmatized_model_8.model,Neticesi sebebiyle ağırlaşmış yaralama durumunda ceza artırılır.,Neticesi sebebiyle ağırlaşmış yaralama suçu tanımlanır.,0.9603306
+lemmatized_model_8.model,Neticesi sebebiyle ağırlaşmış yaralama durumunda ceza artırılır.,Yaralamanın ölüme neden olması durumunda ceza artırılır.,0.94516057
+lemmatized_model_8.model,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,Hakime hakaret eden kişi hapis cezası ile cezalandırılır.,0.9838037
+lemmatized_model_8.model,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,Gasp eden kişi ağır cezalandırılır.,0.9748317
+lemmatized_model_8.model,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,Kasten öldürme suçunu işleyen kişi müebbet hapis cezası ile cezalandırılır.,0.97229725
+lemmatized_model_8.model,Suç işlemeye alenen tahrik eden kişi cezalandırılır.,Gasp eden kişi ağır cezalandırılır.,0.9811025
+lemmatized_model_8.model,Suç işlemeye alenen tahrik eden kişi cezalandırılır.,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,0.9556372
+lemmatized_model_8.model,Suç işlemeye alenen tahrik eden kişi cezalandırılır.,Yargıya ilişkin suçları işleyen kişiler cezalandırılır.,0.95385396
+lemmatized_model_8.model,Cinsel saldırı fiili cezalandırılır.,Çocuğu cinsel amaçlı kullanan cezalandırılır.,0.9586767
+lemmatized_model_8.model,Cinsel saldırı fiili cezalandırılır.,Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,0.95758617
+lemmatized_model_8.model,Cinsel saldırı fiili cezalandırılır.,Suç işlemek amacıyla teşekkül kuran kişi cezalandırılır.,0.95209795
+lemmatized_model_8.model,Cinsel saldırı suçu işleyen fail hapis cezası alır.,Yağma (gasp) suçunu işleyen fail ağır hapis cezası ile cezalandırılır.,0.9575133
+lemmatized_model_8.model,Cinsel saldırı suçu işleyen fail hapis cezası alır.,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,0.94547987
+lemmatized_model_8.model,Cinsel saldırı suçu işleyen fail hapis cezası alır.,Yağma suçunun silahla ve yaralama ile işlenmesi ağır cezayı gerektirir.,0.9373293
+lemmatized_model_8.model,Küçük yaştaki çocukla cinsel ilişkide bulunan cezalandırılır.,Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,0.9606661
+lemmatized_model_8.model,Küçük yaştaki çocukla cinsel ilişkide bulunan cezalandırılır.,Reşit olmayanla cinsel ilişki kurma suçu düzenlenmiştir.,0.9441027
+lemmatized_model_8.model,Küçük yaştaki çocukla cinsel ilişkide bulunan cezalandırılır.,Cinsel saldırı fiili cezalandırılır.,0.94178367
+lemmatized_model_8.model,Çocuğun cinsel istismarı suçu olarak değerlendirilir.,Çocuğun cinsel istismarı suç olarak tanımlanır.,0.99536496
+lemmatized_model_8.model,Çocuğun cinsel istismarı suçu olarak değerlendirilir.,Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,0.9530927
+lemmatized_model_8.model,Çocuğun cinsel istismarı suçu olarak değerlendirilir.,Cinsel saldırı fiili cezalandırılır.,0.95022005
+lemmatized_model_8.model,Gasp eden kişi ağır cezalandırılır.,Suç işlemeye alenen tahrik eden kişi cezalandırılır.,0.9811025
+lemmatized_model_8.model,Gasp eden kişi ağır cezalandırılır.,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,0.9748317
+lemmatized_model_8.model,Gasp eden kişi ağır cezalandırılır.,Hakime hakaret eden kişi hapis cezası ile cezalandırılır.,0.9467368
+lemmatized_model_8.model,Yağma (gasp) suçunu işleyen fail ağır hapis cezası ile cezalandırılır.,Ağır yaralama suçu işleyen ağır hapis cezasına çarptırılır.,0.987661
+lemmatized_model_8.model,Yağma (gasp) suçunu işleyen fail ağır hapis cezası ile cezalandırılır.,Yağma suçunun silahla ve yaralama ile işlenmesi ağır cezayı gerektirir.,0.9754572
+lemmatized_model_8.model,Yağma (gasp) suçunu işleyen fail ağır hapis cezası ile cezalandırılır.,Kasten öldürme suçunu işleyen kişi müebbet hapis cezası ile cezalandırılır.,0.9670786
+lemmatized_model_8.model,Cezaevi firarı yapan mahkûm cezalandırılır.,Suçlunun kaçmasına yardım eden kişi cezalandırılır.,0.96610796
+lemmatized_model_8.model,Cezaevi firarı yapan mahkûm cezalandırılır.,Kaçan hükümlüye yardım eden kişi cezalandırılır.,0.95207715
+lemmatized_model_8.model,Cezaevi firarı yapan mahkûm cezalandırılır.,Cezaevi disiplin kurallarını ihlal eden kişi cezalandırılır.,0.9514586
+lemmatized_model_8.model,Tutuklu veya hükümlünün kaçması suçu cezalandırılır.,Tutuklu veya hükümlünün cezaevinden firar etmesi cezalandırılır.,0.9728747
+lemmatized_model_8.model,Tutuklu veya hükümlünün kaçması suçu cezalandırılır.,Kaçan hükümlüye yardım eden kişi cezalandırılır.,0.9602529
+lemmatized_model_8.model,Tutuklu veya hükümlünün kaçması suçu cezalandırılır.,Suçlunun kaçmasına yardım eden kişi cezalandırılır.,0.9500948
+lemmatized_model_8.model,Görevi ihmal eden kamu görevlisi ceza alır.,Rüşveti kabul eden kamu görevlisi cezalandırılır.,0.9753938
+lemmatized_model_8.model,Görevi ihmal eden kamu görevlisi ceza alır.,Kamu alacağını tahsil etmeyen görevli cezalandırılır.,0.9700065
+lemmatized_model_8.model,Görevi ihmal eden kamu görevlisi ceza alır.,Görevi kötüye kullanan memura ceza verilir.,0.964435
+lemmatized_model_8.model,Görevin ihmal veya kötüye kullanılması durumunda cezai sorumluluk doğar.,Görevi kötüye kullanan zabıta cezalandırılır.,0.9536491
+lemmatized_model_8.model,Görevin ihmal veya kötüye kullanılması durumunda cezai sorumluluk doğar.,Yetkisini kötüye kullanan kamu görevlisi cezalandırılır.,0.95137864
+lemmatized_model_8.model,Görevin ihmal veya kötüye kullanılması durumunda cezai sorumluluk doğar.,Görevi kötüye kullanma suçu kapsamındadır.,0.9472267
+lemmatized_model_8.model,Genel ahlaka aykırı yayın yapan kişi cezalandırılır.,Genel ahlaka aykırı davranan kimseye idarî para cezası verilir.,0.95135427
+lemmatized_model_8.model,Genel ahlaka aykırı yayın yapan kişi cezalandırılır.,İmar mevzuatına aykırı inşaat yapan kişi cezalandırılır.,0.9474417
+lemmatized_model_8.model,Genel ahlaka aykırı yayın yapan kişi cezalandırılır.,Genel güvenliği kasten tehlikeye sokan kişi cezalandırılır.,0.89883304
+lemmatized_model_8.model,Müstehcen yayın yapan kişiye ceza verilir.,İmar mevzuatına aykırı inşaat yapan kişi cezalandırılır.,0.9473582
+lemmatized_model_8.model,Müstehcen yayın yapan kişiye ceza verilir.,Mala zarar veren kişi tazminat ve hapis cezası ile cezalandırılır.,0.9463701
+lemmatized_model_8.model,Müstehcen yayın yapan kişiye ceza verilir.,Mahkemeye baskı yapan kişi cezalandırılır.,0.9405653
+lemmatized_model_8.model,Mahkemeye yalan beyanda bulunan şahıs cezalandırılır.,Gerçeğe aykırı beyanda bulunan tanık cezalandırılır.,0.9574967
+lemmatized_model_8.model,Mahkemeye yalan beyanda bulunan şahıs cezalandırılır.,Kaçakçılık yapan şahıs cezalandırılır.,0.8792871
+lemmatized_model_8.model,Mahkemeye yalan beyanda bulunan şahıs cezalandırılır.,İmar mevzuatına aykırı inşaat yapan kişi cezalandırılır.,0.87228316
+lemmatized_model_8.model,Tanığın gerçeğe aykırı ifade vermesi durumunda ceza verilir.,Gerçeğe aykırı beyanda bulunan tanık cezalandırılır.,0.92778105
+lemmatized_model_8.model,Tanığın gerçeğe aykırı ifade vermesi durumunda ceza verilir.,Yaralama sonucunda ölüm gerçekleşirse ağır ceza verilir.,0.8919944
+lemmatized_model_8.model,Tanığın gerçeğe aykırı ifade vermesi durumunda ceza verilir.,Müstehcen yayın yapan kişiye ceza verilir.,0.8895165
+lemmatized_model_8.model,Oy kullanmayı engelleyen kişi cezalandırılır.,Oy kullanma hakkını engelleyen kişi cezalandırılır.,0.99201596
+lemmatized_model_8.model,Oy kullanmayı engelleyen kişi cezalandırılır.,Kişilerin siyasi haklarının kullanılmasını engelleyen kişi cezalandırılır.,0.9901482
+lemmatized_model_8.model,Oy kullanmayı engelleyen kişi cezalandırılır.,Görevli memurun görevini yapmasını engelleyen kişi cezalandırılır.,0.9580818
+lemmatized_model_8.model,Kişilerin siyasi haklarının kullanılmasını engelleyen kişi cezalandırılır.,Oy kullanma hakkını engelleyen kişi cezalandırılır.,0.9967563
+lemmatized_model_8.model,Kişilerin siyasi haklarının kullanılmasını engelleyen kişi cezalandırılır.,Oy kullanmayı engelleyen kişi cezalandırılır.,0.9901482
+lemmatized_model_8.model,Kişilerin siyasi haklarının kullanılmasını engelleyen kişi cezalandırılır.,Görevi nedeniyle haksız menfaat sağlayan kişi cezalandırılır.,0.9671206
+lemmatized_model_8.model,Hırsızlık yapan kişi hapis cezası alır.,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,0.9566079
+lemmatized_model_8.model,Hırsızlık yapan kişi hapis cezası alır.,Mala zarar veren kişi tazminat ve hapis cezası ile cezalandırılır.,0.9555321
+lemmatized_model_8.model,Hırsızlık yapan kişi hapis cezası alır.,Hakime hakaret eden kişi hapis cezası ile cezalandırılır.,0.946624
+lemmatized_model_8.model,Hırsızlık suçu için ceza uygulanır.,Gece vakti hırsızlık yapan daha ağır cezalandırılır.,0.95960635
+lemmatized_model_8.model,Hırsızlık suçu için ceza uygulanır.,Nitelikli hırsızlık kapsamında ceza uygulanır.,0.95849055
+lemmatized_model_8.model,Hırsızlık suçu için ceza uygulanır.,Kaçakçılık suçu kapsamında ceza uygulanır.,0.95398927
+lemmatized_model_8.model,Mahkemeye baskı yapan kişi cezalandırılır.,Kaçakçılık yapan şahıs cezalandırılır.,0.9917432
+lemmatized_model_8.model,Mahkemeye baskı yapan kişi cezalandırılır.,Toplu taşımayı engelleyen eylem yapan kişi cezalandırılır.,0.9610909
+lemmatized_model_8.model,Mahkemeye baskı yapan kişi cezalandırılır.,İmar mevzuatına aykırı inşaat yapan kişi cezalandırılır.,0.9583243
+lemmatized_model_8.model,Yargı görevi yapanı etkilemeye teşebbüs eden kişiye ceza verilir.,Yargı görevini yapanı etkilemeye teşebbüs eden kişi cezalandırılır.,0.9856494
+lemmatized_model_8.model,Yargı görevi yapanı etkilemeye teşebbüs eden kişiye ceza verilir.,Halkı kin ve düşmanlığa tahrik eden kişiye ceza verilir.,0.92826664
+lemmatized_model_8.model,Yargı görevi yapanı etkilemeye teşebbüs eden kişiye ceza verilir.,Memura rüşvet veren kişi yargılanır.,0.9273655
+lemmatized_model_8.model,Gece vakti hırsızlık yapan daha ağır cezalandırılır.,Silahla tehdit suçu işleyen kişi ağır cezalandırılır.,0.9596932
+lemmatized_model_8.model,Gece vakti hırsızlık yapan daha ağır cezalandırılır.,Hırsızlık suçu için ceza uygulanır.,0.95960635
+lemmatized_model_8.model,Gece vakti hırsızlık yapan daha ağır cezalandırılır.,Gece işlenen suçlar daha ağır cezalandırılır.,0.95497537
+lemmatized_model_8.model,Gece işlenen suçlar daha ağır cezalandırılır.,Silahla tehdit suçu işleyen kişi ağır cezalandırılır.,0.9909011
+lemmatized_model_8.model,Gece işlenen suçlar daha ağır cezalandırılır.,Tehdit suçunu işleyen kişi cezalandırılır.,0.9709475
+lemmatized_model_8.model,Gece işlenen suçlar daha ağır cezalandırılır.,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,0.9647207
+lemmatized_model_8.model,Suçun tasarlanarak işlenmesi durumunda ceza artar.,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,0.9713564
+lemmatized_model_8.model,Suçun tasarlanarak işlenmesi durumunda ceza artar.,Neticesi sebebiyle ağırlaşmış yaralama durumunda ceza artırılır.,0.9667413
+lemmatized_model_8.model,Suçun tasarlanarak işlenmesi durumunda ceza artar.,Yağma suçunun silahla ve yaralama ile işlenmesi ağır cezayı gerektirir.,0.96107745
+lemmatized_model_8.model,Tasarlayarak adam öldürme suçu için ağırlaştırılmış müebbet cezası verilir.,Adam öldürmeye teşebbüs eden kişi ağır ceza alır.,0.9731507
+lemmatized_model_8.model,Tasarlayarak adam öldürme suçu için ağırlaştırılmış müebbet cezası verilir.,Kasten öldürme suçunu işleyen kişi müebbet hapis cezası ile cezalandırılır.,0.9514762
+lemmatized_model_8.model,Tasarlayarak adam öldürme suçu için ağırlaştırılmış müebbet cezası verilir.,Suç işlemeye tahrik eden kişi hapis cezası ile cezalandırılır.,0.9343538
+lemmatized_model_8.model,Mahkeme kararını tanımayan kişi cezalandırılır.,Mahkeme kararına uymayan kişi cezalandırılır.,0.9999247
+lemmatized_model_8.model,Mahkeme kararını tanımayan kişi cezalandırılır.,Mahkeme kararını uygulamayan yönetici cezalandırılır.,0.97737855
+lemmatized_model_8.model,Mahkeme kararını tanımayan kişi cezalandırılır.,Mahkeme kararına muhalefet eden kişi hakkında işlem yapılır.,0.96103543
+lemmatized_model_8.model,Mahkeme kararına uymayan kişi cezalandırılır.,Mahkeme kararını tanımayan kişi cezalandırılır.,0.9999247
+lemmatized_model_8.model,Mahkeme kararına uymayan kişi cezalandırılır.,Mahkeme kararını uygulamayan yönetici cezalandırılır.,0.9771539
+lemmatized_model_8.model,Mahkeme kararına uymayan kişi cezalandırılır.,Mahkeme kararına muhalefet eden kişi hakkında işlem yapılır.,0.96275395
+lemmatized_model_8.model,Kaçakçılık yapan şahıs cezalandırılır.,Mahkemeye baskı yapan kişi cezalandırılır.,0.9917432
+lemmatized_model_8.model,Kaçakçılık yapan şahıs cezalandırılır.,İmar mevzuatına aykırı inşaat yapan kişi cezalandırılır.,0.9583781
+lemmatized_model_8.model,Kaçakçılık yapan şahıs cezalandırılır.,Toplu taşımayı engelleyen eylem yapan kişi cezalandırılır.,0.9498163
+lemmatized_model_8.model,Kaçakçılık suçu kapsamında ceza uygulanır.,Kamu görevlisinin zimmet suçu işlemesi durumunda ağır cezalar uygulanır.,0.9743663
+lemmatized_model_8.model,Kaçakçılık suçu kapsamında ceza uygulanır.,Taksirle yaralama suçu kapsamında ceza uygulanır.,0.9717449
+lemmatized_model_8.model,Kaçakçılık suçu kapsamında ceza uygulanır.,Nitelikli hırsızlık kapsamında ceza uygulanır.,0.96091044
+lemmatized_model_8.model,Görevli memura karşı tehdit suçu işlenirse ceza verilir.,Kamu görevlisinin zimmet suçu işlemesi durumunda ağır cezalar uygulanır.,0.97276545
+lemmatized_model_8.model,Görevli memura karşı tehdit suçu işlenirse ceza verilir.,Kişiye karşı işlenen nitelikli yaralama suçu cezalandırılır.,0.9568543
+lemmatized_model_8.model,Görevli memura karşı tehdit suçu işlenirse ceza verilir.,Silahla tehdit suçu işleyen kişi ağır cezalandırılır.,0.9500014
+lemmatized_model_8.model,Tehdit suçunu işleyen kişi cezalandırılır.,Zorla çalıştırma suçu işleyen kişi cezalandırılır.,0.975012
+lemmatized_model_8.model,Tehdit suçunu işleyen kişi cezalandırılır.,Silahla tehdit suçu işleyen kişi ağır cezalandırılır.,0.97117126
+lemmatized_model_8.model,Tehdit suçunu işleyen kişi cezalandırılır.,Gece işlenen suçlar daha ağır cezalandırılır.,0.9709475
+lemmatized_model_8.model,Kamu düzenini bozan davranışlar cezalandırılır.,Kamu düzenini bozan toplantı düzenleyen kişi cezalandırılır.,0.98983014
+lemmatized_model_8.model,Kamu düzenini bozan davranışlar cezalandırılır.,Toplantı ve yürüyüş düzenleyerek kamu düzenini bozan kişi hakkında işlem yapılır.,0.97188425
+lemmatized_model_8.model,Kamu düzenini bozan davranışlar cezalandırılır.,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,0.9178013
+lemmatized_model_8.model,Halkı kin ve düşmanlığa tahrik eden kişiye ceza verilir.,Halkı silahlı isyana tahrik eden kişi ağır cezalandırılır.,0.9801915
+lemmatized_model_8.model,Halkı kin ve düşmanlığa tahrik eden kişiye ceza verilir.,Halkı isyana teşvik eden kişi cezalandırılır.,0.9598362
+lemmatized_model_8.model,Halkı kin ve düşmanlığa tahrik eden kişiye ceza verilir.,Müstehcen yayın yapan kişiye ceza verilir.,0.93299913
+lemmatized_model_8.model,Cinayete azmettiren cezalandırılır.,Adli sicil kaydını usulsüz silen kişi cezalandırılır.,0.9776214
+lemmatized_model_8.model,Cinayete azmettiren cezalandırılır.,Suç delillerini gizleyen kişi cezalandırılır.,0.96903205
+lemmatized_model_8.model,Cinayete azmettiren cezalandırılır.,Suçluyu kayıran kişi cezalandırılır.,0.9652182
+lemmatized_model_8.model,"Azmettiren, asli fail gibi cezalandırılır.",Suçu üstlenerek gerçek faili saklayan kişi cezalandırılır.,0.9265085
+lemmatized_model_8.model,"Azmettiren, asli fail gibi cezalandırılır.",Cinayete azmettiren cezalandırılır.,0.92479014
+lemmatized_model_8.model,"Azmettiren, asli fail gibi cezalandırılır.","Suç delillerini yok eden, gizleyen veya değiştiren kişi cezalandırılır.",0.9207108
+lemmatized_model_8.model,Sahtecilik yapan kişi ağır ceza alır.,Hırsızlık yapan kişi hapis cezası alır.,0.9459902
+lemmatized_model_8.model,Sahtecilik yapan kişi ağır ceza alır.,Kamu görevlisinin zimmet suçu işlemesi durumunda ağır cezalar uygulanır.,0.9441784
+lemmatized_model_8.model,Sahtecilik yapan kişi ağır ceza alır.,İhaleye fesat karıştıran kişi cezalandırılır.,0.9386086
+lemmatized_model_8.model,Resmi belgede sahtecilik suçunu işleyen kişi cezalandırılır.,Sahte mühür kullanan kişi cezalandırılır.,0.9629573
+lemmatized_model_8.model,Resmi belgede sahtecilik suçunu işleyen kişi cezalandırılır.,Resmi mühürde sahtecilik suçu tanımlanmıştır.,0.9629432
+lemmatized_model_8.model,Resmi belgede sahtecilik suçunu işleyen kişi cezalandırılır.,Fuhuşa teşvik ve aracılık suçu tanımlanır.,0.9584966
+lemmatized_model_8.model,Yargı kararlarını uygulamayan kişi suç işlemiş sayılır.,Mahkeme kararını uygulamayan yönetici cezalandırılır.,0.93815094
+lemmatized_model_8.model,Yargı kararlarını uygulamayan kişi suç işlemiş sayılır.,Mahkeme kararını tanımayan kişi cezalandırılır.,0.92801636
+lemmatized_model_8.model,Yargı kararlarını uygulamayan kişi suç işlemiş sayılır.,Yargıya ilişkin suçları işleyen kişiler cezalandırılır.,0.92689013
+lemmatized_model_8.model,Yargıya ilişkin suçları işleyen kişiler cezalandırılır.,Suçluyu kayıran kişi cezalandırılır.,0.9591658
+lemmatized_model_8.model,Yargıya ilişkin suçları işleyen kişiler cezalandırılır.,İhaleye fesat karıştıran kişi cezalandırılır.,0.9572709
+lemmatized_model_8.model,Yargıya ilişkin suçları işleyen kişiler cezalandırılır.,Cinayete azmettiren cezalandırılır.,0.95415777
+lemmatized_model_8.model,Haksız yere başkasının kimliğini kullanan kişi cezalandırılır.,Görevi nedeniyle haksız menfaat sağlayan kişi cezalandırılır.,0.9720106
+lemmatized_model_8.model,Haksız yere başkasının kimliğini kullanan kişi cezalandırılır.,Haksız menfaat sağlayan görevli cezalandırılır.,0.9667094
+lemmatized_model_8.model,Haksız yere başkasının kimliğini kullanan kişi cezalandırılır.,Oy kullanma hakkını engelleyen kişi cezalandırılır.,0.9651869
+lemmatized_model_8.model,Başkasının kimliğini kullanan kişi hakkında ceza verilir.,Seçme ve seçilme hakkını engelleyen kişi hakkında ceza uygulanır.,0.96826524
+lemmatized_model_8.model,Başkasının kimliğini kullanan kişi hakkında ceza verilir.,Başkasına ait mala zarar veren kişi hakkında cezai işlem uygulanır.,0.9462733
+lemmatized_model_8.model,Başkasının kimliğini kullanan kişi hakkında ceza verilir.,Toplu taşıma aracına zarar veren kişi cezalandırılır.,0.93258023
+lemmatized_model_8.model,Sahte resmi evrak düzenleyen cezalandırılır.,Resmî belgede sahtecilik yapan kişi cezalandırılır.,0.96735215
+lemmatized_model_8.model,Sahte resmi evrak düzenleyen cezalandırılır.,Resmi görevli kimliğini sahte olarak kullanan kişi cezalandırılır.,0.95986813
+lemmatized_model_8.model,Sahte resmi evrak düzenleyen cezalandırılır.,Sahte mühür kullanan kişi cezalandırılır.,0.9577099
+lemmatized_model_8.model,Resmî belgede sahtecilik yapan kişi cezalandırılır.,Sahte mühür kullanan kişi cezalandırılır.,0.98365134
+lemmatized_model_8.model,Resmî belgede sahtecilik yapan kişi cezalandırılır.,Resmi görevli kimliğini sahte olarak kullanan kişi cezalandırılır.,0.9691414
+lemmatized_model_8.model,Resmî belgede sahtecilik yapan kişi cezalandırılır.,Sahte resmi evrak düzenleyen cezalandırılır.,0.96735215
+lemmatized_model_8.model,Rüşveti kabul eden kamu görevlisi cezalandırılır.,Kamu alacağını tahsil etmeyen görevli cezalandırılır.,0.9960445
+lemmatized_model_8.model,Rüşveti kabul eden kamu görevlisi cezalandırılır.,Görevi ihmal eden kamu görevlisi ceza alır.,0.9753938
+lemmatized_model_8.model,Rüşveti kabul eden kamu görevlisi cezalandırılır.,Görevle ilgili sırrı açıklayan memur cezalandırılır.,0.96961975
+lemmatized_model_8.model,Rüşvet alan ve veren kişi cezalandırılır.,Memura rüşvet veren kişi yargılanır.,0.97775483
+lemmatized_model_8.model,Rüşvet alan ve veren kişi cezalandırılır.,Görevli memura itaatsizlik eden kişi cezalandırılır.,0.94631207
+lemmatized_model_8.model,Rüşvet alan ve veren kişi cezalandırılır.,Kaçakçılık yapan şahıs cezalandırılır.,0.945265
+lemmatized_model_8.model,Çocuğu cinsel amaçlı kullanan cezalandırılır.,Cinsel saldırı fiili cezalandırılır.,0.9586767
+lemmatized_model_8.model,Çocuğu cinsel amaçlı kullanan cezalandırılır.,Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,0.9464518
+lemmatized_model_8.model,Çocuğu cinsel amaçlı kullanan cezalandırılır.,Çocuğun cinsel istismarı suçu olarak değerlendirilir.,0.93741125
+lemmatized_model_8.model,Çocuğun cinsel istismarı suç olarak tanımlanır.,Çocuğun cinsel istismarı suçu olarak değerlendirilir.,0.99536496
+lemmatized_model_8.model,Çocuğun cinsel istismarı suç olarak tanımlanır.,Cinsel saldırı fiili cezalandırılır.,0.9413292
+lemmatized_model_8.model,Çocuğun cinsel istismarı suç olarak tanımlanır.,Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,0.93821573
+lemmatized_model_8.model,Yetkisiz silah taşıyan kişi cezalandırılır.,Toplu taşımayı engelleyen eylem yapan kişi cezalandırılır.,0.968015
+lemmatized_model_8.model,Yetkisiz silah taşıyan kişi cezalandırılır.,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,0.95862246
+lemmatized_model_8.model,Yetkisiz silah taşıyan kişi cezalandırılır.,Mahkemeye baskı yapan kişi cezalandırılır.,0.94791067
+lemmatized_model_8.model,Ruhsatsız silah bulunduran kişi hakkında cezai işlem uygulanır.,Mahkeme kararına muhalefet eden kişi hakkında işlem yapılır.,0.9544481
+lemmatized_model_8.model,Ruhsatsız silah bulunduran kişi hakkında cezai işlem uygulanır.,Başkasına ait mala zarar veren kişi hakkında cezai işlem uygulanır.,0.94750464
+lemmatized_model_8.model,Ruhsatsız silah bulunduran kişi hakkında cezai işlem uygulanır.,Yalan tanıklık eden kişi hakkında yargı işlemi yapılır.,0.9345501
+lemmatized_model_8.model,Suçu üstlenerek gerçek faili saklayan kişi cezalandırılır.,Zorla çalıştırma suçu işleyen kişi cezalandırılır.,0.93817836
+lemmatized_model_8.model,Suçu üstlenerek gerçek faili saklayan kişi cezalandırılır.,Cinayete azmettiren cezalandırılır.,0.9377349
+lemmatized_model_8.model,Suçu üstlenerek gerçek faili saklayan kişi cezalandırılır.,"Azmettiren, asli fail gibi cezalandırılır.",0.9265085
+lemmatized_model_8.model,Suçluyu kayıran kişi cezalandırılır.,Adli sicil kaydını usulsüz silen kişi cezalandırılır.,0.9778339
+lemmatized_model_8.model,Suçluyu kayıran kişi cezalandırılır.,Cinayete azmettiren cezalandırılır.,0.9652182
+lemmatized_model_8.model,Suçluyu kayıran kişi cezalandırılır.,Yargıya ilişkin suçları işleyen kişiler cezalandırılır.,0.9591658
+lemmatized_model_8.model,Kamu düzenini bozan toplantı düzenleyen kişi cezalandırılır.,Kamu düzenini bozan davranışlar cezalandırılır.,0.98983014
+lemmatized_model_8.model,Kamu düzenini bozan toplantı düzenleyen kişi cezalandırılır.,Toplantı ve yürüyüş düzenleyerek kamu düzenini bozan kişi hakkında işlem yapılır.,0.9853727
+lemmatized_model_8.model,Kamu düzenini bozan toplantı düzenleyen kişi cezalandırılır.,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,0.9104014
+lemmatized_model_8.model,Toplantı ve yürüyüş düzenleyerek kamu düzenini bozan kişi hakkında işlem yapılır.,Kamu düzenini bozan toplantı düzenleyen kişi cezalandırılır.,0.9853727
+lemmatized_model_8.model,Toplantı ve yürüyüş düzenleyerek kamu düzenini bozan kişi hakkında işlem yapılır.,Kamu düzenini bozan davranışlar cezalandırılır.,0.97188425
+lemmatized_model_8.model,Toplantı ve yürüyüş düzenleyerek kamu düzenini bozan kişi hakkında işlem yapılır.,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,0.9196981
+lemmatized_model_8.model,Mühür kırma suçunu işleyen kişi cezalandırılır.,Zorla çalıştırma suçu işleyen kişi cezalandırılır.,0.9784221
+lemmatized_model_8.model,Mühür kırma suçunu işleyen kişi cezalandırılır.,Tehdit suçunu işleyen kişi cezalandırılır.,0.9671195
+lemmatized_model_8.model,Mühür kırma suçunu işleyen kişi cezalandırılır.,Fuhuşa teşvik ve aracılık suçu tanımlanır.,0.95886016
+lemmatized_model_8.model,Resmî mührün bozulması suç olarak tanımlanır.,Resmi mühürde sahtecilik suçu tanımlanmıştır.,0.9889518
+lemmatized_model_8.model,Resmî mührün bozulması suç olarak tanımlanır.,Taksirle ölüme neden olma suçu tanımlanır.,0.9475346
+lemmatized_model_8.model,Resmî mührün bozulması suç olarak tanımlanır.,Resmi belgede sahtecilik suçunu işleyen kişi cezalandırılır.,0.93714756
+lemmatized_model_8.model,Düşman devlete casusluk yapan kişi cezalandırılır.,Göreve ilişkin sırrı ifşa eden kişi cezalandırılır.,0.95428616
+lemmatized_model_8.model,Düşman devlete casusluk yapan kişi cezalandırılır.,Mahkemeye baskı yapan kişi cezalandırılır.,0.9490459
+lemmatized_model_8.model,Düşman devlete casusluk yapan kişi cezalandırılır.,Yetkisiz silah taşıyan kişi cezalandırılır.,0.94482327
+lemmatized_model_8.model,Devletin güvenliğine ilişkin bilgileri yabancı devlet lehine kullanan kişi cezalandırılır.,Düşman devlete casusluk yapan kişi cezalandırılır.,0.91878515
+lemmatized_model_8.model,Devletin güvenliğine ilişkin bilgileri yabancı devlet lehine kullanan kişi cezalandırılır.,Göreve ilişkin sırrı ifşa eden kişi cezalandırılır.,0.899804
+lemmatized_model_8.model,Devletin güvenliğine ilişkin bilgileri yabancı devlet lehine kullanan kişi cezalandırılır.,Oy kullanmayı engelleyen kişi cezalandırılır.,0.8696118
+lemmatized_model_8.model,Oy kullanma hakkını engelleyen kişi cezalandırılır.,Kişilerin siyasi haklarının kullanılmasını engelleyen kişi cezalandırılır.,0.9967563
+lemmatized_model_8.model,Oy kullanma hakkını engelleyen kişi cezalandırılır.,Oy kullanmayı engelleyen kişi cezalandırılır.,0.99201596
+lemmatized_model_8.model,Oy kullanma hakkını engelleyen kişi cezalandırılır.,Haksız yere başkasının kimliğini kullanan kişi cezalandırılır.,0.9651869
+lemmatized_model_8.model,Seçme ve seçilme hakkını engelleyen kişi hakkında ceza uygulanır.,Başkasının kimliğini kullanan kişi hakkında ceza verilir.,0.96826524
+lemmatized_model_8.model,Seçme ve seçilme hakkını engelleyen kişi hakkında ceza uygulanır.,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,0.9595125
+lemmatized_model_8.model,Seçme ve seçilme hakkını engelleyen kişi hakkında ceza uygulanır.,Toplu taşımayı engelleyen eylem yapan kişi cezalandırılır.,0.9550554
+lemmatized_model_8.model,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,Yağma suçunun silahla ve yaralama ile işlenmesi ağır cezayı gerektirir.,0.9714974
+lemmatized_model_8.model,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,Suçun tasarlanarak işlenmesi durumunda ceza artar.,0.9713564
+lemmatized_model_8.model,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,Gece işlenen suçlar daha ağır cezalandırılır.,0.9647207
+lemmatized_model_8.model,Yağma suçunun silahla ve yaralama ile işlenmesi ağır cezayı gerektirir.,Ağır yaralama suçu işleyen ağır hapis cezasına çarptırılır.,0.984159
+lemmatized_model_8.model,Yağma suçunun silahla ve yaralama ile işlenmesi ağır cezayı gerektirir.,Yağma (gasp) suçunu işleyen fail ağır hapis cezası ile cezalandırılır.,0.9754572
+lemmatized_model_8.model,Yağma suçunun silahla ve yaralama ile işlenmesi ağır cezayı gerektirir.,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,0.9714974
+lemmatized_model_8.model,Zorla çalıştırma suçu işleyen kişi cezalandırılır.,Mühür kırma suçunu işleyen kişi cezalandırılır.,0.9784221
+lemmatized_model_8.model,Zorla çalıştırma suçu işleyen kişi cezalandırılır.,Tehdit suçunu işleyen kişi cezalandırılır.,0.975012
+lemmatized_model_8.model,Zorla çalıştırma suçu işleyen kişi cezalandırılır.,Cinayete azmettiren cezalandırılır.,0.9448315
+lemmatized_model_8.model,Çalışma hürriyetinin ihlali suçtur.,Kişiyi hürriyetinden yoksun bırakma suçu işlenmiş olur.,0.9445425
+lemmatized_model_8.model,Çalışma hürriyetinin ihlali suçtur.,Hukuka aykırı olarak bir kişiyi hürriyetinden yoksun bırakan kişi cezalandırılır.,0.91862774
+lemmatized_model_8.model,Çalışma hürriyetinin ihlali suçtur.,Zorla çalıştırma suçu işleyen kişi cezalandırılır.,0.91137
+lemmatized_model_8.model,Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,Reşit olmayanla cinsel ilişki kurma suçu düzenlenmiştir.,0.9920644
+lemmatized_model_8.model,Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,Küçük yaştaki çocukla cinsel ilişkide bulunan cezalandırılır.,0.9606661
+lemmatized_model_8.model,Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,Cinsel saldırı fiili cezalandırılır.,0.95758617
+lemmatized_model_8.model,Reşit olmayanla cinsel ilişki kurma suçu düzenlenmiştir.,Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,0.9920644
+lemmatized_model_8.model,Reşit olmayanla cinsel ilişki kurma suçu düzenlenmiştir.,Çocuğun cinsel istismarı suçu olarak değerlendirilir.,0.94950753
+lemmatized_model_8.model,Reşit olmayanla cinsel ilişki kurma suçu düzenlenmiştir.,Küçük yaştaki çocukla cinsel ilişkide bulunan cezalandırılır.,0.9441027
+lemmatized_model_8.model,Toplu taşımayı engelleyen eylem yapan kişi cezalandırılır.,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,0.9905756
+lemmatized_model_8.model,Toplu taşımayı engelleyen eylem yapan kişi cezalandırılır.,Yetkisiz silah taşıyan kişi cezalandırılır.,0.968015
+lemmatized_model_8.model,Toplu taşımayı engelleyen eylem yapan kişi cezalandırılır.,Mahkemeye baskı yapan kişi cezalandırılır.,0.9610909
+lemmatized_model_8.model,Kamu hizmetini engelleyen fiil suç sayılır.,Kamu görevlisine direnme suçunu işleyen kişi cezalandırılır.,0.95634866
+lemmatized_model_8.model,Kamu hizmetini engelleyen fiil suç sayılır.,Bürokrasiye karşı direnen vatandaş cezalandırılır.,0.95441675
+lemmatized_model_8.model,Kamu hizmetini engelleyen fiil suç sayılır.,Kamu görevlisine görevinden dolayı direnme suçtur.,0.9431136
+lemmatized_model_8.model,Haksız yere tutuklama yapan kişi cezalandırılır.,Haksız yere gözaltı yapan kişi cezalandırılır.,0.9999787
+lemmatized_model_8.model,Haksız yere tutuklama yapan kişi cezalandırılır.,Kişilerin siyasi haklarının kullanılmasını engelleyen kişi cezalandırılır.,0.96067464
+lemmatized_model_8.model,Haksız yere tutuklama yapan kişi cezalandırılır.,Görevi nedeniyle haksız menfaat sağlayan kişi cezalandırılır.,0.95336604
+lemmatized_model_8.model,Kişiyi hürriyetinden yoksun bırakma suçu işlenmiş olur.,Bir kimsenin hürriyetinden yoksun bırakılması suçu işlendiğinde fail cezalandırılır.,0.9741483
+lemmatized_model_8.model,Kişiyi hürriyetinden yoksun bırakma suçu işlenmiş olur.,Hukuka aykırı olarak bir kişiyi hürriyetinden yoksun bırakan kişi cezalandırılır.,0.95083433
+lemmatized_model_8.model,Kişiyi hürriyetinden yoksun bırakma suçu işlenmiş olur.,Çalışma hürriyetinin ihlali suçtur.,0.9445425
+lemmatized_model_8.model,Kaçan hükümlüye yardım eden kişi cezalandırılır.,Suçlunun kaçmasına yardım eden kişi cezalandırılır.,0.99395514
+lemmatized_model_8.model,Kaçan hükümlüye yardım eden kişi cezalandırılır.,Tutuklu veya hükümlünün cezaevinden firar etmesi cezalandırılır.,0.98427075
+lemmatized_model_8.model,Kaçan hükümlüye yardım eden kişi cezalandırılır.,Tutuklu veya hükümlünün kaçması suçu cezalandırılır.,0.9602529
+lemmatized_model_8.model,Suçlunun kaçmasına yardım eden kişi cezalandırılır.,Kaçan hükümlüye yardım eden kişi cezalandırılır.,0.99395514
+lemmatized_model_8.model,Suçlunun kaçmasına yardım eden kişi cezalandırılır.,Tutuklu veya hükümlünün cezaevinden firar etmesi cezalandırılır.,0.9708386
+lemmatized_model_8.model,Suçlunun kaçmasına yardım eden kişi cezalandırılır.,Cezaevi firarı yapan mahkûm cezalandırılır.,0.96610796
+lemmatized_model_8.model,Tehlikeli maddeyi izinsiz bulunduran kişi cezalandırılır.,Tehlikeli maddeleri izinsiz bulundurma suçu cezalandırılır.,0.99087435
+lemmatized_model_8.model,Tehlikeli maddeyi izinsiz bulunduran kişi cezalandırılır.,Tehlikeli hayvanı serbest bırakan kişi cezalandırılır.,0.92405343
+lemmatized_model_8.model,Tehlikeli maddeyi izinsiz bulunduran kişi cezalandırılır.,Genel güvenliği kasten tehlikeye sokan kişi cezalandırılır.,0.90199673
+lemmatized_model_8.model,Tehlikeli maddeleri izinsiz bulundurma suçu cezalandırılır.,Tehlikeli maddeyi izinsiz bulunduran kişi cezalandırılır.,0.99087435
+lemmatized_model_8.model,Tehlikeli maddeleri izinsiz bulundurma suçu cezalandırılır.,Tehlikeli hayvanı serbest bırakan kişi cezalandırılır.,0.9351056
+lemmatized_model_8.model,Tehlikeli maddeleri izinsiz bulundurma suçu cezalandırılır.,Hayvanı tehlikeli biçimde serbest bırakma suçu tanımlanmıştır.,0.9076829
+lemmatized_model_8.model,Halkı isyana teşvik eden kişi cezalandırılır.,Halkı silahlı isyana tahrik eden kişi ağır cezalandırılır.,0.9885883
+lemmatized_model_8.model,Halkı isyana teşvik eden kişi cezalandırılır.,Halkı kin ve düşmanlığa tahrik eden kişiye ceza verilir.,0.9598362
+lemmatized_model_8.model,Halkı isyana teşvik eden kişi cezalandırılır.,Suç işlemeye alenen tahrik eden kişi cezalandırılır.,0.9389173
+lemmatized_model_8.model,Halkı silahlı isyana tahrik eden kişi ağır cezalandırılır.,Halkı isyana teşvik eden kişi cezalandırılır.,0.9885883
+lemmatized_model_8.model,Halkı silahlı isyana tahrik eden kişi ağır cezalandırılır.,Halkı kin ve düşmanlığa tahrik eden kişiye ceza verilir.,0.9801915
+lemmatized_model_8.model,Halkı silahlı isyana tahrik eden kişi ağır cezalandırılır.,Suç işlemeye alenen tahrik eden kişi cezalandırılır.,0.93939394
+lemmatized_model_8.model,Özel hayatın gizliliğini ihlal eden kişi hakkında ceza verilir.,Özel hayatın gizliliğini ihlal eden kişi cezalandırılır.,0.97791064
+lemmatized_model_8.model,Özel hayatın gizliliğini ihlal eden kişi hakkında ceza verilir.,Başkasına ait mala zarar veren kişi hakkında cezai işlem uygulanır.,0.907329
+lemmatized_model_8.model,Özel hayatın gizliliğini ihlal eden kişi hakkında ceza verilir.,Başkasının kimliğini kullanan kişi hakkında ceza verilir.,0.90674466
+lemmatized_model_8.model,Özel hayatın gizliliğini ihlal eden kişi cezalandırılır.,Özel hayatın gizliliğini ihlal eden kişi hakkında ceza verilir.,0.97791064
+lemmatized_model_8.model,Özel hayatın gizliliğini ihlal eden kişi cezalandırılır.,Cezaevi disiplin kurallarını ihlal eden kişi cezalandırılır.,0.93191034
+lemmatized_model_8.model,Özel hayatın gizliliğini ihlal eden kişi cezalandırılır.,Aile hukukundan doğan yükümlülükleri ihlal eden kişi cezalandırılır.,0.9135025
+lemmatized_model_8.model,Görevli memurun görevini yapmasını engelleyen kişi cezalandırılır.,Görevle ilgili sırrı açıklayan memur cezalandırılır.,0.96672386
+lemmatized_model_8.model,Görevli memurun görevini yapmasını engelleyen kişi cezalandırılır.,Kamu alacağını tahsil etmeyen görevli cezalandırılır.,0.96082115
+lemmatized_model_8.model,Görevli memurun görevini yapmasını engelleyen kişi cezalandırılır.,Görev sırasında yetkisini aşan asker cezalandırılır.,0.96076393
+lemmatized_model_8.model,Kamu görevlisine görevinden dolayı direnme suçtur.,Görevi kötüye kullanan kamu görevlisi cezalandırılır.,0.97110057
+lemmatized_model_8.model,Kamu görevlisine görevinden dolayı direnme suçtur.,Yetkisini kötüye kullanan kamu görevlisi cezalandırılır.,0.9675932
+lemmatized_model_8.model,Kamu görevlisine görevinden dolayı direnme suçtur.,Görev sırasında yetkisini aşan asker cezalandırılır.,0.9630568
+lemmatized_model_8.model,Yargılamayı etkilemek amacıyla delil uyduran kişi cezalandırılır.,Suç delillerini gizleyen kişi cezalandırılır.,0.9373779
+lemmatized_model_8.model,Yargılamayı etkilemek amacıyla delil uyduran kişi cezalandırılır.,Suçluyu kayıran kişi cezalandırılır.,0.93624806
+lemmatized_model_8.model,Yargılamayı etkilemek amacıyla delil uyduran kişi cezalandırılır.,Adli sicil kaydını usulsüz silen kişi cezalandırılır.,0.9111008
+lemmatized_model_8.model,Yargı görevini yapanı etkilemeye teşebbüs eden kişi cezalandırılır.,Yargı görevi yapanı etkilemeye teşebbüs eden kişiye ceza verilir.,0.9856494
+lemmatized_model_8.model,Yargı görevini yapanı etkilemeye teşebbüs eden kişi cezalandırılır.,Cezaevi firarı yapan mahkûm cezalandırılır.,0.948945
+lemmatized_model_8.model,Yargı görevini yapanı etkilemeye teşebbüs eden kişi cezalandırılır.,Görevli memura itaatsizlik eden kişi cezalandırılır.,0.9317919
+lemmatized_model_8.model,Kasten yangın çıkaran kişi cezalandırılır.,Bir kişiye hakaret eden fail cezalandırılır.,0.9633046
+lemmatized_model_8.model,Kasten yangın çıkaran kişi cezalandırılır.,Bir kimseyi kasten öldüren kişi ağır hapis cezası ile cezalandırılır.,0.9394911
+lemmatized_model_8.model,Kasten yangın çıkaran kişi cezalandırılır.,Bir kimseye insan onuruyla bağdaşmayacak biçimde işkence eden kişi cezalandırılır.,0.9373142
+lemmatized_model_8.model,Genel güvenliği kasten tehlikeye sokan kişi cezalandırılır.,Akıl hastasını kasten zarar görecek şekilde serbest bırakan kişi cezalandırılır.,0.93599445
+lemmatized_model_8.model,Genel güvenliği kasten tehlikeye sokan kişi cezalandırılır.,Tehlikeli hayvanı serbest bırakan kişi cezalandırılır.,0.9318216
+lemmatized_model_8.model,Genel güvenliği kasten tehlikeye sokan kişi cezalandırılır.,Kasten yangın çıkaran kişi cezalandırılır.,0.9271067
+lemmatized_model_8.model,Tehlikeli hayvanı serbest bırakan kişi cezalandırılır.,Hayvanı tehlikeli biçimde serbest bırakma suçu tanımlanmıştır.,0.98164654
+lemmatized_model_8.model,Tehlikeli hayvanı serbest bırakan kişi cezalandırılır.,Akıl hastasını kasten zarar görecek şekilde serbest bırakan kişi cezalandırılır.,0.9590107
+lemmatized_model_8.model,Tehlikeli hayvanı serbest bırakan kişi cezalandırılır.,Tehlikeli maddeleri izinsiz bulundurma suçu cezalandırılır.,0.9351056
+lemmatized_model_8.model,Hayvanı tehlikeli biçimde serbest bırakma suçu tanımlanmıştır.,Tehlikeli hayvanı serbest bırakan kişi cezalandırılır.,0.98164654
+lemmatized_model_8.model,Hayvanı tehlikeli biçimde serbest bırakma suçu tanımlanmıştır.,Hukuka aykırı olarak bir kişiyi hürriyetinden yoksun bırakan kişi cezalandırılır.,0.91836923
+lemmatized_model_8.model,Hayvanı tehlikeli biçimde serbest bırakma suçu tanımlanmıştır.,Akıl hastasını kasten zarar görecek şekilde serbest bırakan kişi cezalandırılır.,0.91670626
+lemmatized_model_8.model,Suç işlemek amacıyla teşekkül kuran kişi cezalandırılır.,Cinsel saldırı fiili cezalandırılır.,0.95209795
+lemmatized_model_8.model,Suç işlemek amacıyla teşekkül kuran kişi cezalandırılır.,Suç delillerini gizleyen kişi cezalandırılır.,0.9480977
+lemmatized_model_8.model,Suç işlemek amacıyla teşekkül kuran kişi cezalandırılır.,"Suç örgütü kuran, yöneten veya üye olan kişi cezalandırılır.",0.937567
+lemmatized_model_8.model,"Suç örgütü kuran, yöneten veya üye olan kişi cezalandırılır.",Suç işlemek amacıyla teşekkül kuran kişi cezalandırılır.,0.937567
+lemmatized_model_8.model,"Suç örgütü kuran, yöneten veya üye olan kişi cezalandırılır.",Reşit olmayanla cinsel ilişki kuran kişi cezalandırılır.,0.9230676
+lemmatized_model_8.model,"Suç örgütü kuran, yöneten veya üye olan kişi cezalandırılır.",Cinsel saldırı fiili cezalandırılır.,0.92117035
+lemmatized_model_8.model,Görev sırasında yetkisini aşan asker cezalandırılır.,Görevi sırasında rüşvet alan zabıta cezalandırılır.,0.9913865
+lemmatized_model_8.model,Görev sırasında yetkisini aşan asker cezalandırılır.,Görevle ilgili sırrı açıklayan memur cezalandırılır.,0.9872816
+lemmatized_model_8.model,Görev sırasında yetkisini aşan asker cezalandırılır.,Görevli memura karşı koyan kişi cezalandırılır.,0.97912574
+lemmatized_model_8.model,Yetkisini kötüye kullanan kamu görevlisi cezalandırılır.,Görevi kötüye kullanan kamu görevlisi cezalandırılır.,0.9977697
+lemmatized_model_8.model,Yetkisini kötüye kullanan kamu görevlisi cezalandırılır.,Görevi kötüye kullanan zabıta cezalandırılır.,0.99234605
+lemmatized_model_8.model,Yetkisini kötüye kullanan kamu görevlisi cezalandırılır.,Kamu görevlisine görevinden dolayı direnme suçtur.,0.9675932
+lemmatized_model_8.model,Görevle ilgili sırrı açıklayan memur cezalandırılır.,Görevli memura karşı koyan kişi cezalandırılır.,0.98883504
+lemmatized_model_8.model,Görevle ilgili sırrı açıklayan memur cezalandırılır.,Görev sırasında yetkisini aşan asker cezalandırılır.,0.9872816
+lemmatized_model_8.model,Görevle ilgili sırrı açıklayan memur cezalandırılır.,Görevi sırasında rüşvet alan zabıta cezalandırılır.,0.98319054
+lemmatized_model_8.model,Göreve ilişkin sırrı ifşa eden kişi cezalandırılır.,Görevli memura itaatsizlik eden kişi cezalandırılır.,0.97915137
+lemmatized_model_8.model,Göreve ilişkin sırrı ifşa eden kişi cezalandırılır.,Görevle ilgili sırrı açıklayan memur cezalandırılır.,0.95888907
+lemmatized_model_8.model,Göreve ilişkin sırrı ifşa eden kişi cezalandırılır.,Kamu alacağını tahsil etmeyen görevli cezalandırılır.,0.9556398
+lemmatized_model_8.model,Taksirle insan yaralayan kişi cezalandırılır.,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,0.9480789
+lemmatized_model_8.model,Taksirle insan yaralayan kişi cezalandırılır.,Taksirle ölüme sebebiyet veren kişi cezalandırılır.,0.945401
+lemmatized_model_8.model,Taksirle insan yaralayan kişi cezalandırılır.,Zorla çalıştırma suçu işleyen kişi cezalandırılır.,0.93288803
+lemmatized_model_8.model,Taksirle yaralama suçu kapsamında ceza uygulanır.,Kaçakçılık suçu kapsamında ceza uygulanır.,0.9717449
+lemmatized_model_8.model,Taksirle yaralama suçu kapsamında ceza uygulanır.,Kamu görevlisinin zimmet suçu işlemesi durumunda ağır cezalar uygulanır.,0.9620632
+lemmatized_model_8.model,Taksirle yaralama suçu kapsamında ceza uygulanır.,Suçun tasarlanarak işlenmesi durumunda ceza artar.,0.95499825
+lemmatized_model_8.model,Taksirle ölüme sebebiyet veren kişi cezalandırılır.,İmar kirliliğine neden olan kişi cezalandırılır.,0.9550216
+lemmatized_model_8.model,Taksirle ölüme sebebiyet veren kişi cezalandırılır.,Taksirle insan yaralayan kişi cezalandırılır.,0.945401
+lemmatized_model_8.model,Taksirle ölüme sebebiyet veren kişi cezalandırılır.,İhaleye fesat karıştıran kişi cezalandırılır.,0.92587787
+lemmatized_model_8.model,Taksirle ölüme neden olma suçu tanımlanır.,Resmî mührün bozulması suç olarak tanımlanır.,0.9475346
+lemmatized_model_8.model,Taksirle ölüme neden olma suçu tanımlanır.,İmar kirliliğine neden olan kişi cezalandırılır.,0.9321687
+lemmatized_model_8.model,Taksirle ölüme neden olma suçu tanımlanır.,Yaralamanın ölüme neden olması durumunda ceza artırılır.,0.93121874
+lemmatized_model_8.model,Resmi görevli kimliğini sahte olarak kullanan kişi cezalandırılır.,Sahte mühür kullanan kişi cezalandırılır.,0.9926077
+lemmatized_model_8.model,Resmi görevli kimliğini sahte olarak kullanan kişi cezalandırılır.,Resmi belgede sahtecilik ve görevi kötüye kullanma kapsamında değerlendirilir.,0.9730123
+lemmatized_model_8.model,Resmi görevli kimliğini sahte olarak kullanan kişi cezalandırılır.,Resmî belgede sahtecilik yapan kişi cezalandırılır.,0.9691414
+lemmatized_model_8.model,Görevli sıfatını sahte olarak kullanan kişi hakkında ceza uygulanır.,Resmi görevli kimliğini sahte olarak kullanan kişi cezalandırılır.,0.95823455
+lemmatized_model_8.model,Görevli sıfatını sahte olarak kullanan kişi hakkında ceza uygulanır.,Sahte mühür kullanan kişi cezalandırılır.,0.9568275
+lemmatized_model_8.model,Görevli sıfatını sahte olarak kullanan kişi hakkında ceza uygulanır.,Resmî belgede sahtecilik yapan kişi cezalandırılır.,0.9525041
+lemmatized_model_8.model,İmar mevzuatına aykırı inşaat yapan kişi cezalandırılır.,Kaçakçılık yapan şahıs cezalandırılır.,0.9583781
+lemmatized_model_8.model,İmar mevzuatına aykırı inşaat yapan kişi cezalandırılır.,Mahkemeye baskı yapan kişi cezalandırılır.,0.9583243
+lemmatized_model_8.model,İmar mevzuatına aykırı inşaat yapan kişi cezalandırılır.,Genel ahlaka aykırı yayın yapan kişi cezalandırılır.,0.9474417
+lemmatized_model_8.model,İmar kirliliğine neden olan kişi cezalandırılır.,Taksirle ölüme sebebiyet veren kişi cezalandırılır.,0.9550216
+lemmatized_model_8.model,İmar kirliliğine neden olan kişi cezalandırılır.,İhaleye fesat karıştırmak suçu açıkça tanımlanır.,0.950695
+lemmatized_model_8.model,İmar kirliliğine neden olan kişi cezalandırılır.,Fuhuşa teşvik ve aracılık suçu tanımlanır.,0.9500819
+lemmatized_model_8.model,Kamu alacağını tahsil etmeyen görevli cezalandırılır.,Rüşveti kabul eden kamu görevlisi cezalandırılır.,0.9960445
+lemmatized_model_8.model,Kamu alacağını tahsil etmeyen görevli cezalandırılır.,Görevli memura itaatsizlik eden kişi cezalandırılır.,0.9715529
+lemmatized_model_8.model,Kamu alacağını tahsil etmeyen görevli cezalandırılır.,Görevi ihmal eden kamu görevlisi ceza alır.,0.9700065
+lemmatized_model_8.model,Kamu görevlisinin kamu zararına yol açacak şekilde davranması cezalandırılır.,Kamu alacağını tahsil etmeyen görevli cezalandırılır.,0.9111443
+lemmatized_model_8.model,Kamu görevlisinin kamu zararına yol açacak şekilde davranması cezalandırılır.,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,0.91006124
+lemmatized_model_8.model,Kamu görevlisinin kamu zararına yol açacak şekilde davranması cezalandırılır.,Rüşveti kabul eden kamu görevlisi cezalandırılır.,0.9032744
+lemmatized_model_8.model,Haksız yere gözaltı yapan kişi cezalandırılır.,Haksız yere tutuklama yapan kişi cezalandırılır.,0.9999787
+lemmatized_model_8.model,Haksız yere gözaltı yapan kişi cezalandırılır.,Kişilerin siyasi haklarının kullanılmasını engelleyen kişi cezalandırılır.,0.9601877
+lemmatized_model_8.model,Haksız yere gözaltı yapan kişi cezalandırılır.,Görevi nedeniyle haksız menfaat sağlayan kişi cezalandırılır.,0.9529103
+lemmatized_model_8.model,Hukuka aykırı olarak bir kişiyi hürriyetinden yoksun bırakan kişi cezalandırılır.,Bir kimsenin hürriyetinden yoksun bırakılması suçu işlendiğinde fail cezalandırılır.,0.9603553
+lemmatized_model_8.model,Hukuka aykırı olarak bir kişiyi hürriyetinden yoksun bırakan kişi cezalandırılır.,Kişiyi hürriyetinden yoksun bırakma suçu işlenmiş olur.,0.95083433
+lemmatized_model_8.model,Hukuka aykırı olarak bir kişiyi hürriyetinden yoksun bırakan kişi cezalandırılır.,Tehlikeli hayvanı serbest bırakan kişi cezalandırılır.,0.9270682
+lemmatized_model_8.model,Sahte mühür kullanan kişi cezalandırılır.,Resmi görevli kimliğini sahte olarak kullanan kişi cezalandırılır.,0.9926077
+lemmatized_model_8.model,Sahte mühür kullanan kişi cezalandırılır.,Resmî belgede sahtecilik yapan kişi cezalandırılır.,0.98365134
+lemmatized_model_8.model,Sahte mühür kullanan kişi cezalandırılır.,Resmi belgede sahtecilik suçunu işleyen kişi cezalandırılır.,0.9629573
+lemmatized_model_8.model,Resmi mühürde sahtecilik suçu tanımlanmıştır.,Resmî mührün bozulması suç olarak tanımlanır.,0.9889518
+lemmatized_model_8.model,Resmi mühürde sahtecilik suçu tanımlanmıştır.,Resmi belgede sahtecilik suçunu işleyen kişi cezalandırılır.,0.9629432
+lemmatized_model_8.model,Resmi mühürde sahtecilik suçu tanımlanmıştır.,Aile içi kötü muamele suçu tanımlanır.,0.9323644
+lemmatized_model_8.model,Görevi kötüye kullanan zabıta cezalandırılır.,Yetkisini kötüye kullanan kamu görevlisi cezalandırılır.,0.99234605
+lemmatized_model_8.model,Görevi kötüye kullanan zabıta cezalandırılır.,Görevi kötüye kullanan kamu görevlisi cezalandırılır.,0.99179935
+lemmatized_model_8.model,Görevi kötüye kullanan zabıta cezalandırılır.,Görevi kötüye kullanma suçu kapsamındadır.,0.9702745
+lemmatized_model_8.model,Görevi kötüye kullanma suçu kapsamındadır.,Görevi kötüye kullanan zabıta cezalandırılır.,0.9702745
+lemmatized_model_8.model,Görevi kötüye kullanma suçu kapsamındadır.,Resmi belgede sahtecilik ve görevi kötüye kullanma kapsamında değerlendirilir.,0.9648268
+lemmatized_model_8.model,Görevi kötüye kullanma suçu kapsamındadır.,Kamu görevlisine görevinden dolayı direnme suçtur.,0.95682293
+lemmatized_model_8.model,Akıl hastasını kasten zarar görecek şekilde serbest bırakan kişi cezalandırılır.,Tehlikeli hayvanı serbest bırakan kişi cezalandırılır.,0.9590107
+lemmatized_model_8.model,Akıl hastasını kasten zarar görecek şekilde serbest bırakan kişi cezalandırılır.,Genel güvenliği kasten tehlikeye sokan kişi cezalandırılır.,0.93599445
+lemmatized_model_8.model,Akıl hastasını kasten zarar görecek şekilde serbest bırakan kişi cezalandırılır.,Hayvanı tehlikeli biçimde serbest bırakma suçu tanımlanmıştır.,0.91670626
+lemmatized_model_8.model,Yardım veya bildirim yükümlülüğünün yerine getirilmemesi suç kapsamına girer.,Suçun gece vakti veya kırma/delme yoluyla işlenmesi nitelikli hale getirir.,0.9018289
+lemmatized_model_8.model,Yardım veya bildirim yükümlülüğünün yerine getirilmemesi suç kapsamına girer.,"Suç delillerini yok eden, gizleyen veya değiştiren kişi cezalandırılır.",0.8927931
+lemmatized_model_8.model,Yardım veya bildirim yükümlülüğünün yerine getirilmemesi suç kapsamına girer.,Tutuklu veya hükümlünün kaçması suçu cezalandırılır.,0.8830002
+lemmatized_model_8.model,İhaleye fesat karıştıran kişi cezalandırılır.,Cinayete azmettiren cezalandırılır.,0.9608667
+lemmatized_model_8.model,İhaleye fesat karıştıran kişi cezalandırılır.,Yargıya ilişkin suçları işleyen kişiler cezalandırılır.,0.9572709
+lemmatized_model_8.model,İhaleye fesat karıştıran kişi cezalandırılır.,Suç işlemeye alenen tahrik eden kişi cezalandırılır.,0.9484369
+lemmatized_model_8.model,İhaleye fesat karıştırmak suçu açıkça tanımlanır.,İmar kirliliğine neden olan kişi cezalandırılır.,0.950695
+lemmatized_model_8.model,İhaleye fesat karıştırmak suçu açıkça tanımlanır.,Mühür kırma suçunu işleyen kişi cezalandırılır.,0.9487377
+lemmatized_model_8.model,İhaleye fesat karıştırmak suçu açıkça tanımlanır.,Fuhuşa teşvik ve aracılık suçu tanımlanır.,0.9371619
+lemmatized_model_8.model,Hırsızlık için yapılan kazı veya delme faaliyeti cezalandırılır.,"Suç delillerini yok eden, gizleyen veya değiştiren kişi cezalandırılır.",0.9222918
+lemmatized_model_8.model,Hırsızlık için yapılan kazı veya delme faaliyeti cezalandırılır.,Gece vakti hırsızlık yapan daha ağır cezalandırılır.,0.9172769
+lemmatized_model_8.model,Hırsızlık için yapılan kazı veya delme faaliyeti cezalandırılır.,Hırsızlık suçu için ceza uygulanır.,0.916797
+lemmatized_model_8.model,Suçun gece vakti veya kırma/delme yoluyla işlenmesi nitelikli hale getirir.,"Silahla tehdit, suçun nitelikli hali sayılır.",0.9735462
+lemmatized_model_8.model,Suçun gece vakti veya kırma/delme yoluyla işlenmesi nitelikli hale getirir.,Kişiye karşı işlenen nitelikli yaralama suçu cezalandırılır.,0.9422424
+lemmatized_model_8.model,Suçun gece vakti veya kırma/delme yoluyla işlenmesi nitelikli hale getirir.,Nitelikli hırsızlık kapsamında ceza uygulanır.,0.91655475
+lemmatized_model_8.model,Aile bireyine kötü muamele eden kişi cezalandırılır.,Aile hukukundan doğan yükümlülükleri ihlal eden kişi cezalandırılır.,0.9476187
+lemmatized_model_8.model,Aile bireyine kötü muamele eden kişi cezalandırılır.,Göreve ilişkin sırrı ifşa eden kişi cezalandırılır.,0.9396525
+lemmatized_model_8.model,Aile bireyine kötü muamele eden kişi cezalandırılır.,Görevli memura itaatsizlik eden kişi cezalandırılır.,0.92917466
+lemmatized_model_8.model,Aile içi kötü muamele suçu tanımlanır.,Görevi kötüye kullanma suçu kapsamındadır.,0.9324662
+lemmatized_model_8.model,Aile içi kötü muamele suçu tanımlanır.,Resmi mühürde sahtecilik suçu tanımlanmıştır.,0.9323644
+lemmatized_model_8.model,Aile içi kötü muamele suçu tanımlanır.,Resmî mührün bozulması suç olarak tanımlanır.,0.92502826
+lemmatized_model_8.model,Haksız menfaat sağlayan görevli cezalandırılır.,Görevi nedeniyle haksız menfaat sağlayan kişi cezalandırılır.,0.99693614
+lemmatized_model_8.model,Haksız menfaat sağlayan görevli cezalandırılır.,Haksız yere başkasının kimliğini kullanan kişi cezalandırılır.,0.9667094
+lemmatized_model_8.model,Haksız menfaat sağlayan görevli cezalandırılır.,Oy kullanma hakkını engelleyen kişi cezalandırılır.,0.95816106
+lemmatized_model_8.model,Görevi nedeniyle haksız menfaat sağlayan kişi cezalandırılır.,Haksız menfaat sağlayan görevli cezalandırılır.,0.99693614
+lemmatized_model_8.model,Görevi nedeniyle haksız menfaat sağlayan kişi cezalandırılır.,Haksız yere başkasının kimliğini kullanan kişi cezalandırılır.,0.9720106
+lemmatized_model_8.model,Görevi nedeniyle haksız menfaat sağlayan kişi cezalandırılır.,Kişilerin siyasi haklarının kullanılmasını engelleyen kişi cezalandırılır.,0.9671206
+lemmatized_model_8.model,Adli sicil kaydını usulsüz silen kişi cezalandırılır.,Suçluyu kayıran kişi cezalandırılır.,0.9778339
+lemmatized_model_8.model,Adli sicil kaydını usulsüz silen kişi cezalandırılır.,Cinayete azmettiren cezalandırılır.,0.9776214
+lemmatized_model_8.model,Adli sicil kaydını usulsüz silen kişi cezalandırılır.,Yargıya ilişkin suçları işleyen kişiler cezalandırılır.,0.95326674
+lemmatized_model_8.model,Resmi belgede sahtecilik ve görevi kötüye kullanma kapsamında değerlendirilir.,Resmi görevli kimliğini sahte olarak kullanan kişi cezalandırılır.,0.9730123
+lemmatized_model_8.model,Resmi belgede sahtecilik ve görevi kötüye kullanma kapsamında değerlendirilir.,Görevi kötüye kullanma suçu kapsamındadır.,0.9648268
+lemmatized_model_8.model,Resmi belgede sahtecilik ve görevi kötüye kullanma kapsamında değerlendirilir.,Sahte mühür kullanan kişi cezalandırılır.,0.9608908
+lemmatized_model_8.model,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,Toplu taşımayı engelleyen eylem yapan kişi cezalandırılır.,0.9905756
+lemmatized_model_8.model,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,Seçme ve seçilme hakkını engelleyen kişi hakkında ceza uygulanır.,0.9595125
+lemmatized_model_8.model,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,Yetkisiz silah taşıyan kişi cezalandırılır.,0.95862246
+lemmatized_model_8.model,Toplu taşıma aracına zarar veren kişi cezalandırılır.,Toplu taşımayı engelleyen eylem yapan kişi cezalandırılır.,0.9439506
+lemmatized_model_8.model,Toplu taşıma aracına zarar veren kişi cezalandırılır.,Kamu ulaşım araçlarını engelleyen eylem yapan kişi cezalandırılır.,0.93332356
+lemmatized_model_8.model,Toplu taşıma aracına zarar veren kişi cezalandırılır.,Başkasının kimliğini kullanan kişi hakkında ceza verilir.,0.93258023
+lemmatized_model_8.model,Kamu malını özel işlerinde kullanan görevli cezalandırılır.,Kamu malını özel işlerinde kullanan kamu görevlisi cezalandırılır.,0.99873227
+lemmatized_model_8.model,Kamu malını özel işlerinde kullanan görevli cezalandırılır.,Kamu görevlisine görevinden dolayı direnme suçtur.,0.9480282
+lemmatized_model_8.model,Kamu malını özel işlerinde kullanan görevli cezalandırılır.,Yetkisini kötüye kullanan kamu görevlisi cezalandırılır.,0.93888545
+lemmatized_model_8.model,Kamu malını özel işlerinde kullanan kamu görevlisi cezalandırılır.,Kamu malını özel işlerinde kullanan görevli cezalandırılır.,0.99873227
+lemmatized_model_8.model,Kamu malını özel işlerinde kullanan kamu görevlisi cezalandırılır.,Kamu görevlisine görevinden dolayı direnme suçtur.,0.9467301
+lemmatized_model_8.model,Kamu malını özel işlerinde kullanan kamu görevlisi cezalandırılır.,Yetkisini kötüye kullanan kamu görevlisi cezalandırılır.,0.9395479
+lemmatized_model_8.model,Mahkeme kararını uygulamayan yönetici cezalandırılır.,Mahkeme kararını tanımayan kişi cezalandırılır.,0.97737855
+lemmatized_model_8.model,Mahkeme kararını uygulamayan yönetici cezalandırılır.,Mahkeme kararına uymayan kişi cezalandırılır.,0.9771539
+lemmatized_model_8.model,Mahkeme kararını uygulamayan yönetici cezalandırılır.,Mahkeme kararına muhalefet eden kişi hakkında işlem yapılır.,0.9382286
+lemmatized_model_8.model,Mahkeme kararına muhalefet eden kişi hakkında işlem yapılır.,Yalan tanıklık eden kişi hakkında yargı işlemi yapılır.,0.97847736
+lemmatized_model_8.model,Mahkeme kararına muhalefet eden kişi hakkında işlem yapılır.,Mahkeme kararına uymayan kişi cezalandırılır.,0.96275395
+lemmatized_model_8.model,Mahkeme kararına muhalefet eden kişi hakkında işlem yapılır.,Mahkeme kararını tanımayan kişi cezalandırılır.,0.96103543
+lemmatized_model_8.model,Cezaevi disiplin kurallarını ihlal eden kişi cezalandırılır.,Suçlunun kaçmasına yardım eden kişi cezalandırılır.,0.96081775
+lemmatized_model_8.model,Cezaevi disiplin kurallarını ihlal eden kişi cezalandırılır.,Cezaevi firarı yapan mahkûm cezalandırılır.,0.9514586
+lemmatized_model_8.model,Cezaevi disiplin kurallarını ihlal eden kişi cezalandırılır.,Aile hukukundan doğan yükümlülükleri ihlal eden kişi cezalandırılır.,0.9443088
+lemmatized_model_8.model,Tutuklu veya hükümlünün cezaevinden firar etmesi cezalandırılır.,Kaçan hükümlüye yardım eden kişi cezalandırılır.,0.98427075
+lemmatized_model_8.model,Tutuklu veya hükümlünün cezaevinden firar etmesi cezalandırılır.,Tutuklu veya hükümlünün kaçması suçu cezalandırılır.,0.9728747
+lemmatized_model_8.model,Tutuklu veya hükümlünün cezaevinden firar etmesi cezalandırılır.,Suçlunun kaçmasına yardım eden kişi cezalandırılır.,0.9708386
+lemmatized_model_8.model,Silahla tehdit suçu işleyen kişi ağır cezalandırılır.,Gece işlenen suçlar daha ağır cezalandırılır.,0.9909011
+lemmatized_model_8.model,Silahla tehdit suçu işleyen kişi ağır cezalandırılır.,Tehdit suçunu işleyen kişi cezalandırılır.,0.97117126
+lemmatized_model_8.model,Silahla tehdit suçu işleyen kişi ağır cezalandırılır.,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,0.9641168
+lemmatized_model_8.model,"Silahla tehdit, suçun nitelikli hali sayılır.",Suçun gece vakti veya kırma/delme yoluyla işlenmesi nitelikli hale getirir.,0.9735462
+lemmatized_model_8.model,"Silahla tehdit, suçun nitelikli hali sayılır.",Kişiye karşı işlenen nitelikli yaralama suçu cezalandırılır.,0.9468366
+lemmatized_model_8.model,"Silahla tehdit, suçun nitelikli hali sayılır.",Nitelikli hırsızlık kapsamında ceza uygulanır.,0.9115389
+lemmatized_model_8.model,Kişiye karşı işlenen nitelikli yaralama suçu cezalandırılır.,Silahla tehdit suçu işleyen kişi ağır cezalandırılır.,0.95728374
+lemmatized_model_8.model,Kişiye karşı işlenen nitelikli yaralama suçu cezalandırılır.,Görevli memura karşı tehdit suçu işlenirse ceza verilir.,0.9568543
+lemmatized_model_8.model,Kişiye karşı işlenen nitelikli yaralama suçu cezalandırılır.,Bürokrasiye karşı direnen vatandaş cezalandırılır.,0.95128596
+lemmatized_model_8.model,Neticesi sebebiyle ağırlaşmış yaralama suçu tanımlanır.,Neticesi sebebiyle ağırlaşmış yaralama durumunda ceza artırılır.,0.9603306
+lemmatized_model_8.model,Neticesi sebebiyle ağırlaşmış yaralama suçu tanımlanır.,Gasp sırasında yaralama suçu işleyen kişi ağır cezalandırılır.,0.95715666
+lemmatized_model_8.model,Neticesi sebebiyle ağırlaşmış yaralama suçu tanımlanır.,Suçun tasarlanarak işlenmesi durumunda ceza artar.,0.9554089
+lemmatized_model_8.model,Görevli memura itaatsizlik eden kişi cezalandırılır.,Göreve ilişkin sırrı ifşa eden kişi cezalandırılır.,0.97915137
+lemmatized_model_8.model,Görevli memura itaatsizlik eden kişi cezalandırılır.,Kamu alacağını tahsil etmeyen görevli cezalandırılır.,0.9715529
+lemmatized_model_8.model,Görevli memura itaatsizlik eden kişi cezalandırılır.,Rüşveti kabul eden kamu görevlisi cezalandırılır.,0.9681789
+lemmatized_model_8.model,Görevli memura karşı koyan kişi cezalandırılır.,Görevle ilgili sırrı açıklayan memur cezalandırılır.,0.98883504
+lemmatized_model_8.model,Görevli memura karşı koyan kişi cezalandırılır.,Görev sırasında yetkisini aşan asker cezalandırılır.,0.97912574
+lemmatized_model_8.model,Görevli memura karşı koyan kişi cezalandırılır.,Görevi sırasında rüşvet alan zabıta cezalandırılır.,0.97283125
+lemmatized_model_8.model,Kadınların aldatılarak fuhşa zorlanması cezalandırılır.,Adli sicil kaydını usulsüz silen kişi cezalandırılır.,0.9385308
+lemmatized_model_8.model,Kadınların aldatılarak fuhşa zorlanması cezalandırılır.,Cinayete azmettiren cezalandırılır.,0.9256173
+lemmatized_model_8.model,Kadınların aldatılarak fuhşa zorlanması cezalandırılır.,Hileli davranışlarla bir kimseyi aldatarak kendisine veya başkasına yarar sağlayan kişi dolandırıcılık suçunu işlemiş olur.,0.92185116
+lemmatized_model_8.model,Fuhuşa teşvik ve aracılık suçu tanımlanır.,Mühür kırma suçunu işleyen kişi cezalandırılır.,0.95886016
+lemmatized_model_8.model,Fuhuşa teşvik ve aracılık suçu tanımlanır.,Resmi belgede sahtecilik suçunu işleyen kişi cezalandırılır.,0.9584966
+lemmatized_model_8.model,Fuhuşa teşvik ve aracılık suçu tanımlanır.,İmar kirliliğine neden olan kişi cezalandırılır.,0.9500819
+lemmatized_model_8.model,Yaralama sonucunda ölüm gerçekleşirse ağır ceza verilir.,Zimmetine para geçiren memur ağır hapis cezası ile cezalandırılır.,0.9553891
+lemmatized_model_8.model,Yaralama sonucunda ölüm gerçekleşirse ağır ceza verilir.,Suçun tasarlanarak işlenmesi durumunda ceza artar.,0.9426415
+lemmatized_model_8.model,Yaralama sonucunda ölüm gerçekleşirse ağır ceza verilir.,Neticesi sebebiyle ağırlaşmış yaralama durumunda ceza artırılır.,0.9413117
+lemmatized_model_8.model,Yaralamanın ölüme neden olması durumunda ceza artırılır.,Neticesi sebebiyle ağırlaşmış yaralama suçu tanımlanır.,0.9479555
+lemmatized_model_8.model,Yaralamanın ölüme neden olması durumunda ceza artırılır.,Neticesi sebebiyle ağırlaşmış yaralama durumunda ceza artırılır.,0.94516057
+lemmatized_model_8.model,Yaralamanın ölüme neden olması durumunda ceza artırılır.,Taksirle yaralama suçu kapsamında ceza uygulanır.,0.9421379
+lemmatized_model_8.model,Görevi sırasında rüşvet alan zabıta cezalandırılır.,Görev sırasında yetkisini aşan asker cezalandırılır.,0.9913865
+lemmatized_model_8.model,Görevi sırasında rüşvet alan zabıta cezalandırılır.,Görevle ilgili sırrı açıklayan memur cezalandırılır.,0.98319054
+lemmatized_model_8.model,Görevi sırasında rüşvet alan zabıta cezalandırılır.,Görevli memura karşı koyan kişi cezalandırılır.,0.97283125
+lemmatized_model_8.model,Rüşvet suçu görevde olan herkes için geçerlidir.,İmar kirliliğine neden olan kişi cezalandırılır.,0.94030684
+lemmatized_model_8.model,Rüşvet suçu görevde olan herkes için geçerlidir.,Kamu görevlisine direnme suçunu işleyen kişi cezalandırılır.,0.9220361
+lemmatized_model_8.model,Rüşvet suçu görevde olan herkes için geçerlidir.,Bürokrasiye karşı direnen vatandaş cezalandırılır.,0.9193136
